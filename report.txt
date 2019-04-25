@@ -1,0 +1,2269 @@
+[ 2019-04-22 13:13:40 ] moderntld.com_01507187_nz.is_vgtysebpin4/files_iframe_info.xml NOT YET CREATED
+[ 2019-04-22 13:13:40 ] #################################################################
+[ 2019-04-22 13:13:40 ] ######################   SCRAPING STARTED  ######################
+[ 2019-04-22 13:13:40 ] #################################################################
+[ 2019-04-22 13:13:40 ] Create an empty xml file : files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/files_count.xml
+[ 2019-04-22 13:13:40 ] set_files_count_xml() function
+[ 2019-04-22 13:13:40 ] increment +1
+[ 2019-04-22 13:13:40 ] key = 'scraping_reload' |  value = '1'
+[ 2019-04-22 13:13:40 ] ----------------------------------------------------------
+[ 2019-04-22 13:13:40 ] Error occured when sending email !!!
+[ 2019-04-22 13:13:40 ] Number of running request for this user : 1
+[ 2019-04-22 13:13:40 ] Limit of running request by bulk user : 7
+[ 2019-04-22 13:13:40 ] -------------------------------------------
+[ 2019-04-22 13:13:40 ]  Reading From 'report_to_create_file.txt' 
+[ 2019-04-22 13:13:40 ] -------------------------------------------
+[ 2019-04-22 13:13:40 ] err_msg = file not Exist !!!
+[ 2019-04-22 13:13:40 ] -------------------------------------------
+[ 2019-04-22 13:13:40 ] Front Page is Complete = No
+[ 2019-04-22 13:13:40 ] -------------------------------------------------------------------------------------
+[ 2019-04-22 13:13:40 ] scraping_front_page() Function ...
+[ 2019-04-22 13:13:40 ] archive_url_origine = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:13:40 ] Scraping of front page ( test number 1/3 )
+[ 2019-04-22 13:13:40 ] >>>>>>>>> START >
+[ 2019-04-22 13:13:40 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:13:40 ] URL = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:13:40 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:13:40 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:13:41 ] code = 200
+[ 2019-04-22 13:13:41 ] Final URL = https://web.archive.org/web/20170306133110/https://www.moderntld.com// ( Final code = 200 )
+[ 2019-04-22 13:13:41 ] >>>>>>>>> END >
+[ 2019-04-22 13:13:41 ] set_files_count_xml() function
+[ 2019-04-22 13:13:41 ] key = 'final_archive_url' |  value = 'https://web.archive.org/web/20170306133110/https://www.moderntld.com//'
+[ 2019-04-22 13:13:41 ] ----------------------------------------------------------
+[ 2019-04-22 13:13:41 ] set_files_count_xml() function
+[ 2019-04-22 13:13:41 ] key = 'is_ebn' |  value = 'false'
+[ 2019-04-22 13:13:41 ] ----------------------------------------------------------
+[ 2019-04-22 13:13:41 ] Final Archive URL = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:13:41 ] -------------------------------------------------------------------------------------
+[ 2019-04-22 13:13:41 ] Create front page row in 'to_create_arr' table
+[ 2019-04-22 13:13:41 ] set_files_count_xml() function
+[ 2019-04-22 13:13:41 ] key = 'html_total' |  value = '1'
+[ 2019-04-22 13:13:41 ] key = 'html_done' |  value = '0'
+[ 2019-04-22 13:13:41 ] ----------------------------------------------------------
+[ 2019-04-22 13:13:41 ] ( 0 / 1 )  Done - 0 error pages fixed
+[ 2019-04-22 13:13:41 ] Archive url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:13:41 ] Website url = https://www.moderntld.com//
+[ 2019-04-22 13:13:41 ] No www url = moderntld.com
+[ 2019-04-22 13:13:41 ] Main Domain = moderntld.com
+[ 2019-04-22 13:13:41 ] full archive url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:13:41 ] archive url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:13:41 ] subdomain = www
+[ 2019-04-22 13:13:41 ] type( demo or live ) = demo
+[ 2019-04-22 13:13:41 ] max_level = 1
+[ 2019-04-22 13:13:41 ] allow_backlinks = 0
+[ 2019-04-22 13:13:41 ] main folder = moderntld.com_01507187_nz.is_vgtysebpin4
+[ 2019-04-22 13:13:41 ] email = 01507187@nz.is
+[ 2019-04-22 13:13:41 ] scrape_html_then_files_in_front_page = Yes
+[ 2019-04-22 13:13:41 ] 
+[ 2019-04-22 13:13:41 ] Download PDF = 0
+[ 2019-04-22 13:13:41 ] file_path_index = /
+[ 2019-04-22 13:13:41 ] file_path_without_ext_index = /
+[ 2019-04-22 13:13:41 ] strings_to_replace = 
+[ 2019-04-22 13:13:41 ] remove_analytics_code = 0
+[ 2019-04-22 13:13:41 ] remove_adsense_code = 0
+[ 2019-04-22 13:13:41 ] remove_broken_outbound_links = 0
+[ 2019-04-22 13:13:41 ] redirect_all_404_to_frontpage = No
+[ 2019-04-22 13:13:41 ] force_work_in_local = No
+[ 2019-04-22 13:13:41 ] skip_fix_encoding = No
+[ 2019-04-22 13:13:41 ] Use Proxy after first scraping fail = Yes
+[ 2019-04-22 13:13:41 ] scraping_reload number = 1
+[ 2019-04-22 13:13:41 ] Error occured when tring to read from 
+[ 2019-04-22 13:13:41 ] ------------------------------------------------------------------
+[ 2019-04-22 13:13:41 ] set_files_count_xml() function
+[ 2019-04-22 13:13:41 ] key = 'html_total' |  value = '1'
+[ 2019-04-22 13:13:41 ] key = 'html_done' |  value = '0'
+[ 2019-04-22 13:13:41 ] ----------------------------------------------------------
+[ 2019-04-22 13:13:41 ] ( 0 / 1 )  Done - 0 error pages fixed
+[ 2019-04-22 13:13:41 ] #####################################################################################################
+[ 2019-04-22 13:13:41 ] ###############https://web.archive.org/web/20170306133110/https://www.moderntld.com// ( Scraping  of 1 / 1 )  - 0 error pages fixed###############
+[ 2019-04-22 13:13:41 ] ###############Local URL = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html (code = 200) ###############
+[ 2019-04-22 13:13:41 ] ###############This is front page###############
+[ 2019-04-22 13:13:41 ] ###############Try number = 1###############
+[ 2019-04-22 13:13:41 ] #####################################################################################################
+[ 2019-04-22 13:13:41 ]  Main level =0
+[ 2019-04-22 13:13:41 ] HTML already scraped ( it's probably a front page )
+[ 2019-04-22 13:13:41 ] removeArchiveHeader() from the HTML file
+[ 2019-04-22 13:13:41 ] Original encoding = UTF-8
+[ 2019-04-22 13:13:41 ] Original encoding is in probably UTF-8= true
+[ 2019-04-22 13:13:41 ] ----------------------------------------
+[ 2019-04-22 13:13:41 ] Check Encoding And then fix it
+[ 2019-04-22 13:13:41 ] Final encoding = UTF-8
+[ 2019-04-22 13:13:41 ] Language = N/A
+[ 2019-04-22 13:13:41 ] set_files_count_xml() function
+[ 2019-04-22 13:13:41 ] key = 'is_pretty_url' |  value = 'true'
+[ 2019-04-22 13:13:41 ] ----------------------------------------------------------
+[ 2019-04-22 13:13:41 ] Pretty URL Ratio : 100 %
+[ 2019-04-22 13:13:41 ] Is pertty URL : Yes
+[ 2019-04-22 13:13:41 ] ###############################################################
+[ 2019-04-22 13:13:41 ] Original Href  = /web/20170306133110/https://www.moderntld.com/ - [( 0/18 )]
+[ 2019-04-22 13:13:41 ] href = https://web.archive.org/web/20170306133110/https://www.moderntld.com/ ( is_internal_url = Yes )
+[ 2019-04-22 13:13:41 ] 1 - 'index.html' : Replace 'https://web.archive.org/web/20170306133110/https://www.moderntld.com/' with '/'
+[ 2019-04-22 13:13:41 ] 2 - 'index.html' : Replace '/web/20170306133110/https://www.moderntld.com/' with '/'
+[ 2019-04-22 13:13:41 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:13:41 ] ###############################################################
+[ 2019-04-22 13:13:41 ] Original Href  = /web/20170306133110/https://www.moderntld.com/get-started - [( 1/18 )]
+[ 2019-04-22 13:13:41 ] href = https://web.archive.org/web/20170306133110/https://www.moderntld.com/get-started ( is_internal_url = Yes )
+[ 2019-04-22 13:13:41 ] Original url : https://web.archive.org/web/20170306133110/https://www.moderntld.com/get-started
+[ 2019-04-22 13:13:41 ] >>>>>>>>> START >
+[ 2019-04-22 13:13:41 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:13:41 ] URL = https://web.archive.org/web/20170306133110/https://www.moderntld.com/get-started
+[ 2019-04-22 13:13:41 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:13:41 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:13:41 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:13:43 ] code = 404
+[ 2019-04-22 13:13:43 ]     No sleep!
+[ 2019-04-22 13:13:43 ] ---------------------------------------------------------------
+[ 2019-04-22 13:13:43 ] Test Num = 2
+[ 2019-04-22 13:13:43 ] \\\\
+[ 2019-04-22 13:13:43 ] get_curl() function launching ...
+[ 2019-04-22 13:13:43 ] URL = https://archive.org/wayback/available?url=https://www.moderntld.com/get-started&timestamp=20170306133110 ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:13:43 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:13:43 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1664.3 Safari/537.36
+[ 2019-04-22 13:13:43 ] Final Code = 200
+[ 2019-04-22 13:13:43 ] Final HTML found = Yes
+[ 2019-04-22 13:13:43 ] ////
+[ 2019-04-22 13:13:43 ] This archive URL is not found https://web.archive.org/web/20170306133110/https://www.moderntld.com/get-started
+[ 2019-04-22 13:13:43 ] Archive API say that this url don't exist =  ( Final code = 404 )
+[ 2019-04-22 13:13:43 ] >>>>>>>>> END >
+[ 2019-04-22 13:13:43 ] set_files_count_xml() function
+[ 2019-04-22 13:13:43 ] key = 'html_total' |  value = '1'
+[ 2019-04-22 13:13:43 ] key = 'html_done' |  value = '0'
+[ 2019-04-22 13:13:43 ] ----------------------------------------------------------
+[ 2019-04-22 13:13:43 ] ( 0 / 1 )  Done - 1 error pages fixed
+[ 2019-04-22 13:13:43 ] 1 - 'index.html' : Replace 'https://web.archive.org/web/20170306133110/https://www.moderntld.com/get-started' with '/'
+[ 2019-04-22 13:13:43 ] 2 - 'index.html' : Replace '/web/20170306133110/https://www.moderntld.com/get-started' with '/'
+[ 2019-04-22 13:13:43 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:13:43 ] ###############################################################
+[ 2019-04-22 13:13:43 ] Original Href  = https://web.archive.org/web/20170306133110/https://status.moderntld.com/ - [( 2/18 )]
+[ 2019-04-22 13:13:43 ] href = https://web.archive.org/web/20170306133110/https://status.moderntld.com/ ( is_internal_url = Yes )
+[ 2019-04-22 13:13:43 ] Original url : https://web.archive.org/web/20170306133110/https://status.moderntld.com/
+[ 2019-04-22 13:13:43 ] >>>>>>>>> START >
+[ 2019-04-22 13:13:43 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:13:43 ] URL = https://web.archive.org/web/20170306133110/https://status.moderntld.com/
+[ 2019-04-22 13:13:43 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:13:43 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:13:43 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:13:44 ] code = 404
+[ 2019-04-22 13:13:44 ]     No sleep!
+[ 2019-04-22 13:13:44 ] ---------------------------------------------------------------
+[ 2019-04-22 13:13:44 ] Test Num = 2
+[ 2019-04-22 13:13:44 ] \\\\
+[ 2019-04-22 13:13:44 ] get_curl() function launching ...
+[ 2019-04-22 13:13:44 ] URL = https://archive.org/wayback/available?url=https://status.moderntld.com/&timestamp=20170306133110 ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:13:44 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:13:44 ] useragent = Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:16.0.1) Gecko/20121011 Firefox/21.0.1
+[ 2019-04-22 13:13:44 ] Final Code = 200
+[ 2019-04-22 13:13:44 ] Final HTML found = Yes
+[ 2019-04-22 13:13:44 ] ////
+[ 2019-04-22 13:13:44 ] This archive URL is not found https://web.archive.org/web/20170306133110/https://status.moderntld.com/
+[ 2019-04-22 13:13:44 ] Archive API say that this url don't exist =  ( Final code = 404 )
+[ 2019-04-22 13:13:44 ] >>>>>>>>> END >
+[ 2019-04-22 13:13:44 ] set_files_count_xml() function
+[ 2019-04-22 13:13:44 ] key = 'html_total' |  value = '1'
+[ 2019-04-22 13:13:44 ] key = 'html_done' |  value = '0'
+[ 2019-04-22 13:13:44 ] ----------------------------------------------------------
+[ 2019-04-22 13:13:44 ] ( 0 / 1 )  Done - 2 error pages fixed
+[ 2019-04-22 13:13:44 ] 2 - 'index.html' : Replace 'https://web.archive.org/web/20170306133110/https://status.moderntld.com/' with '/'
+[ 2019-04-22 13:13:44 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:13:44 ] ###############################################################
+[ 2019-04-22 13:13:44 ] Original Href  = /web/20170306133110/https://www.moderntld.com/about - [( 3/18 )]
+[ 2019-04-22 13:13:44 ] href = https://web.archive.org/web/20170306133110/https://www.moderntld.com/about ( is_internal_url = Yes )
+[ 2019-04-22 13:13:44 ] Original url : https://web.archive.org/web/20170306133110/https://www.moderntld.com/about
+[ 2019-04-22 13:13:44 ] >>>>>>>>> START >
+[ 2019-04-22 13:13:44 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:13:44 ] URL = https://web.archive.org/web/20170306133110/https://www.moderntld.com/about
+[ 2019-04-22 13:13:44 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:13:44 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:13:44 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:13:46 ] code = 404
+[ 2019-04-22 13:13:46 ]     No sleep!
+[ 2019-04-22 13:13:46 ] ---------------------------------------------------------------
+[ 2019-04-22 13:13:46 ] Test Num = 2
+[ 2019-04-22 13:13:46 ] \\\\
+[ 2019-04-22 13:13:46 ] get_curl() function launching ...
+[ 2019-04-22 13:13:46 ] URL = https://archive.org/wayback/available?url=https://www.moderntld.com/about&timestamp=20170306133110 ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:13:46 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:13:46 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; chromeframe/12.0.742.112)
+[ 2019-04-22 13:13:46 ] Final Code = 200
+[ 2019-04-22 13:13:46 ] Final HTML found = Yes
+[ 2019-04-22 13:13:46 ] ////
+[ 2019-04-22 13:13:46 ] This archive URL is not found https://web.archive.org/web/20170306133110/https://www.moderntld.com/about
+[ 2019-04-22 13:13:46 ] Archive API say that this url don't exist =  ( Final code = 404 )
+[ 2019-04-22 13:13:46 ] >>>>>>>>> END >
+[ 2019-04-22 13:13:46 ] set_files_count_xml() function
+[ 2019-04-22 13:13:46 ] key = 'html_total' |  value = '1'
+[ 2019-04-22 13:13:46 ] key = 'html_done' |  value = '0'
+[ 2019-04-22 13:13:46 ] ----------------------------------------------------------
+[ 2019-04-22 13:13:46 ] ( 0 / 1 )  Done - 3 error pages fixed
+[ 2019-04-22 13:13:46 ] 1 - 'index.html' : Replace 'https://web.archive.org/web/20170306133110/https://www.moderntld.com/about' with '/'
+[ 2019-04-22 13:13:46 ] 2 - 'index.html' : Replace '/web/20170306133110/https://www.moderntld.com/about' with '/'
+[ 2019-04-22 13:13:46 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:13:46 ] ###############################################################
+[ 2019-04-22 13:13:46 ] Original Href  = https://web.archive.org/web/20170306133110/https://blog.moderntld.com/ - [( 4/18 )]
+[ 2019-04-22 13:13:46 ] href = https://web.archive.org/web/20170306133110/https://blog.moderntld.com/ ( is_internal_url = Yes )
+[ 2019-04-22 13:13:46 ] Original url : https://web.archive.org/web/20170306133110/https://blog.moderntld.com/
+[ 2019-04-22 13:13:46 ] >>>>>>>>> START >
+[ 2019-04-22 13:13:46 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:13:46 ] URL = https://web.archive.org/web/20170306133110/https://blog.moderntld.com/
+[ 2019-04-22 13:13:46 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:13:46 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:13:46 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:13:49 ] code = 200
+[ 2019-04-22 13:13:49 ] Final URL = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/ ( Final code = 200 )
+[ 2019-04-22 13:13:49 ] >>>>>>>>> END >
+[ 2019-04-22 13:13:49 ] all_links_count ( Pages that have code = 200 )= 1
+[ 2019-04-22 13:13:49 ] set_files_count_xml() function
+[ 2019-04-22 13:13:49 ] key = 'html_total' |  value = '2'
+[ 2019-04-22 13:13:49 ] key = 'html_done' |  value = '0'
+[ 2019-04-22 13:13:49 ] ----------------------------------------------------------
+[ 2019-04-22 13:13:49 ] ( 0 / 2 )  Done - 3 error pages fixed
+[ 2019-04-22 13:13:49 ] 2 - 'index.html' : Replace 'https://web.archive.org/web/20170306133110/https://blog.moderntld.com/' with 'blog_subdomain/index/'
+[ 2019-04-22 13:13:49 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:13:49 ] ###############################################################
+[ 2019-04-22 13:13:49 ] Original Href  = https://web.archive.org/web/20170306133110/http://servers.opennicproject.org/ - [( 5/18 )]
+[ 2019-04-22 13:13:49 ] href = https://web.archive.org/web/20170306133110/http://servers.opennicproject.org/ ( is_internal_url = No )
+[ 2019-04-22 13:13:49 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:13:49 ] ###############################################################
+[ 2019-04-22 13:13:49 ] Original Href  = https://web.archive.org/web/20170306133110/https://www.moderntld.com/get-started/ - [( 6/18 )]
+[ 2019-04-22 13:13:49 ] href = https://web.archive.org/web/20170306133110/https://www.moderntld.com/get-started/ ( is_internal_url = Yes )
+[ 2019-04-22 13:13:49 ] this file_name already exist in 'to_create_arr' => 'get-started.html'
+[ 2019-04-22 13:13:49 ] 2 - 'index.html' : Replace 'https://web.archive.org/web/20170306133110/https://www.moderntld.com/get-started/' with '/'
+[ 2019-04-22 13:13:49 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:13:49 ] ###############################################################
+[ 2019-04-22 13:13:49 ] Original Href  = https://web.archive.org/web/20170306133110/http://example.o/ - [( 7/18 )]
+[ 2019-04-22 13:13:49 ] href = https://web.archive.org/web/20170306133110/http://example.o/ ( is_internal_url = No )
+[ 2019-04-22 13:13:49 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:13:49 ] ###############################################################
+[ 2019-04-22 13:13:49 ] Original Href  = https://web.archive.org/web/20170306133110/http://opennic.o/ - [( 8/18 )]
+[ 2019-04-22 13:13:49 ] href = https://web.archive.org/web/20170306133110/http://opennic.o/ ( is_internal_url = No )
+[ 2019-04-22 13:13:49 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:13:49 ] ###############################################################
+[ 2019-04-22 13:13:49 ] Original Href  = https://web.archive.org/web/20170306133110/http://be.libre/ - [( 9/18 )]
+[ 2019-04-22 13:13:49 ] href = https://web.archive.org/web/20170306133110/http://be.libre/ ( is_internal_url = No )
+[ 2019-04-22 13:13:49 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:13:49 ] ###############################################################
+[ 2019-04-22 13:13:49 ] Original Href  = https://web.archive.org/web/20170306133110/https://www.moderntld.com/infrastructure/ - [( 10/18 )]
+[ 2019-04-22 13:13:49 ] href = https://web.archive.org/web/20170306133110/https://www.moderntld.com/infrastructure/ ( is_internal_url = Yes )
+[ 2019-04-22 13:13:49 ] Original url : https://web.archive.org/web/20170306133110/https://www.moderntld.com/infrastructure/
+[ 2019-04-22 13:13:49 ] >>>>>>>>> START >
+[ 2019-04-22 13:13:49 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:13:49 ] URL = https://web.archive.org/web/20170306133110/https://www.moderntld.com/infrastructure/
+[ 2019-04-22 13:13:49 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:13:49 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:13:49 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:13:50 ] code = 404
+[ 2019-04-22 13:13:50 ]     No sleep!
+[ 2019-04-22 13:13:50 ] ---------------------------------------------------------------
+[ 2019-04-22 13:13:50 ] Test Num = 2
+[ 2019-04-22 13:13:50 ] \\\\
+[ 2019-04-22 13:13:50 ] get_curl() function launching ...
+[ 2019-04-22 13:13:50 ] URL = https://archive.org/wayback/available?url=https://moderntld.com/infrastructure/&timestamp=20190321164741 ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:13:50 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:13:51 ] useragent = Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+[ 2019-04-22 13:13:51 ] Final Code = 200
+[ 2019-04-22 13:13:51 ] Final HTML found = Yes
+[ 2019-04-22 13:13:51 ] ////
+[ 2019-04-22 13:13:51 ] This archive URL is not found https://web.archive.org/web/20190321164741/https://moderntld.com/infrastructure/
+[ 2019-04-22 13:13:51 ] Archive API say that this url don't exist =  ( Final code = 404 )
+[ 2019-04-22 13:13:51 ] >>>>>>>>> END >
+[ 2019-04-22 13:13:51 ] set_files_count_xml() function
+[ 2019-04-22 13:13:51 ] key = 'html_total' |  value = '2'
+[ 2019-04-22 13:13:51 ] key = 'html_done' |  value = '0'
+[ 2019-04-22 13:13:51 ] ----------------------------------------------------------
+[ 2019-04-22 13:13:51 ] ( 0 / 2 )  Done - 4 error pages fixed
+[ 2019-04-22 13:13:51 ] 2 - 'index.html' : Replace 'https://web.archive.org/web/20170306133110/https://www.moderntld.com/infrastructure/' with '/'
+[ 2019-04-22 13:13:51 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:13:51 ] ###############################################################
+[ 2019-04-22 13:13:51 ] Original Href  = https://web.archive.org/web/20170306133110/https://www.opennicproject.org/ - [( 11/18 )]
+[ 2019-04-22 13:13:51 ] href = https://web.archive.org/web/20170306133110/https://www.opennicproject.org/ ( is_internal_url = No )
+[ 2019-04-22 13:13:51 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:13:51 ] ###############################################################
+[ 2019-04-22 13:13:51 ] Original Href  = https://web.archive.org/web/20170306133110/https://www.moderntld.com/about/ - [( 12/18 )]
+[ 2019-04-22 13:13:51 ] href = https://web.archive.org/web/20170306133110/https://www.moderntld.com/about/ ( is_internal_url = Yes )
+[ 2019-04-22 13:13:51 ] this file_name already exist in 'to_create_arr' => 'about.html'
+[ 2019-04-22 13:13:51 ] 2 - 'index.html' : Replace 'https://web.archive.org/web/20170306133110/https://www.moderntld.com/about/' with '/'
+[ 2019-04-22 13:13:51 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:13:51 ] ###############################################################
+[ 2019-04-22 13:13:51 ] Original Href  = https://web.archive.org/web/20170306133110/https://www.moderntld.com/irc/ - [( 13/18 )]
+[ 2019-04-22 13:13:51 ] href = https://web.archive.org/web/20170306133110/https://www.moderntld.com/irc/ ( is_internal_url = Yes )
+[ 2019-04-22 13:13:51 ] Original url : https://web.archive.org/web/20170306133110/https://www.moderntld.com/irc/
+[ 2019-04-22 13:13:51 ] >>>>>>>>> START >
+[ 2019-04-22 13:13:51 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:13:51 ] URL = https://web.archive.org/web/20170306133110/https://www.moderntld.com/irc/
+[ 2019-04-22 13:13:51 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:13:51 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:13:51 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:13:52 ] code = 404
+[ 2019-04-22 13:13:52 ]     No sleep!
+[ 2019-04-22 13:13:52 ] ---------------------------------------------------------------
+[ 2019-04-22 13:13:52 ] Test Num = 2
+[ 2019-04-22 13:13:52 ] \\\\
+[ 2019-04-22 13:13:52 ] get_curl() function launching ...
+[ 2019-04-22 13:13:52 ] URL = https://archive.org/wayback/available?url=https://www.moderntld.com/irc%2F&timestamp=20170306133110 ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:13:52 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:13:53 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-gb) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-04-22 13:13:53 ] Final Code = 200
+[ 2019-04-22 13:13:53 ] Final HTML found = Yes
+[ 2019-04-22 13:13:53 ] ////
+[ 2019-04-22 13:13:53 ] This archive URL is not found https://web.archive.org/web/20170306133110/https://www.moderntld.com/irc%2F
+[ 2019-04-22 13:13:53 ] Archive API say that this url don't exist =  ( Final code = 404 )
+[ 2019-04-22 13:13:53 ] >>>>>>>>> END >
+[ 2019-04-22 13:13:53 ] set_files_count_xml() function
+[ 2019-04-22 13:13:53 ] key = 'html_total' |  value = '2'
+[ 2019-04-22 13:13:53 ] key = 'html_done' |  value = '0'
+[ 2019-04-22 13:13:53 ] ----------------------------------------------------------
+[ 2019-04-22 13:13:53 ] ( 0 / 2 )  Done - 5 error pages fixed
+[ 2019-04-22 13:13:53 ] 2 - 'index.html' : Replace 'https://web.archive.org/web/20170306133110/https://www.moderntld.com/irc/' with '/'
+[ 2019-04-22 13:13:53 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:13:53 ] ###############################################################
+[ 2019-04-22 13:13:53 ] Original Href  = https://web.archive.org/web/20170306133110/https://www.opennicproject.org/contact-us/ - [( 14/18 )]
+[ 2019-04-22 13:13:53 ] href = https://web.archive.org/web/20170306133110/https://www.opennicproject.org/contact-us/ ( is_internal_url = No )
+[ 2019-04-22 13:13:53 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:13:53 ] ###############################################################
+[ 2019-04-22 13:13:53 ] Original Href  = https://web.archive.org/web/20170306133110/https://github.com/ModernTLD - [( 15/18 )]
+[ 2019-04-22 13:13:53 ] href = https://web.archive.org/web/20170306133110/https://github.com/ModernTLD ( is_internal_url = No )
+[ 2019-04-22 13:13:53 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:13:53 ] ###############################################################
+[ 2019-04-22 13:13:53 ] Original Href  = https://web.archive.org/web/20170306133110/https://twitter.com/ModernTLD - [( 16/18 )]
+[ 2019-04-22 13:13:53 ] href = https://web.archive.org/web/20170306133110/https://twitter.com/ModernTLD ( is_internal_url = No )
+[ 2019-04-22 13:13:53 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:13:53 ] ###############################################################
+[ 2019-04-22 13:13:53 ] Original Href  = https://web.archive.org/web/20170306133110/https://github.com/riefachan/jekyll-materialize - [( 17/18 )]
+[ 2019-04-22 13:13:53 ] href = https://web.archive.org/web/20170306133110/https://github.com/riefachan/jekyll-materialize ( is_internal_url = No )
+[ 2019-04-22 13:13:53 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:13:53 ] Removed external links total ( 0 / 9 )
+[ 2019-04-22 13:13:53 ] local_file_path not created yet = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:13:53 ] code = 200
+[ 2019-04-22 13:13:53 ] remove_web() function
+[ 2019-04-22 13:13:53 ] moderntld.com_01507187_nz.is_vgtysebpin4/index.html -> Front page created
+[ 2019-04-22 13:13:53 ] set_files_count_xml() function
+[ 2019-04-22 13:13:53 ] key = 'html_total' |  value = '2'
+[ 2019-04-22 13:13:53 ] key = 'html_done' |  value = '1'
+[ 2019-04-22 13:13:53 ] ----------------------------------------------------------
+[ 2019-04-22 13:13:53 ] ( 1 / 2 )  Done - 5 error pages fixed
+[ 2019-04-22 13:13:53 ] moderntld.com_01507187_nz.is_vgtysebpin4/index.html ( Front page ) : index.html already created so now I need to scrape all extensions and update the index.html file
+[ 2019-04-22 13:13:53 ] 
+[ 2019-04-22 13:13:53 ] 
+[ 2019-04-22 13:13:53 ] /**************************************************************/
+[ 2019-04-22 13:13:53 ] /*******		Extract 'css_from_import' files		**********/
+[ 2019-04-22 13:13:53 ] /*******		From    'index.html'      **********/
+[ 2019-04-22 13:13:53 ] /**************************************************************/
+[ 2019-04-22 13:13:53 ] We still update 'files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html'
+[ 2019-04-22 13:13:53 ] There is no file with type 'css_from_import'
+[ 2019-04-22 13:13:53 ] /*******		End : Extract 'css_from_import' files		**********/
+[ 2019-04-22 13:13:53 ] /*******		      From    'index.html'      **********/
+[ 2019-04-22 13:13:53 ] 
+[ 2019-04-22 13:13:53 ] 
+[ 2019-04-22 13:13:53 ] 
+[ 2019-04-22 13:13:53 ] /**************************************************************/
+[ 2019-04-22 13:13:53 ] /*******		Extract 'fonts_from_html' files		**********/
+[ 2019-04-22 13:13:53 ] /*******		From    'index.html'      **********/
+[ 2019-04-22 13:13:53 ] /**************************************************************/
+[ 2019-04-22 13:13:53 ] We still update 'files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html'
+[ 2019-04-22 13:13:53 ] There is no file with type 'fonts_from_html'
+[ 2019-04-22 13:13:53 ] /*******		End : Extract 'fonts_from_html' files		**********/
+[ 2019-04-22 13:13:53 ] /*******		      From    'index.html'      **********/
+[ 2019-04-22 13:13:53 ] 
+[ 2019-04-22 13:13:53 ] 
+[ 2019-04-22 13:13:53 ] 
+[ 2019-04-22 13:13:53 ] /**************************************************************/
+[ 2019-04-22 13:13:53 ] /*******		Extract 'css' files		**********/
+[ 2019-04-22 13:13:53 ] /*******		From    'index.html'      **********/
+[ 2019-04-22 13:13:53 ] /**************************************************************/
+[ 2019-04-22 13:13:53 ] We still update 'files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html'
+[ 2019-04-22 13:13:53 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:13:53 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:13:53 ] folder_path = 
+[ 2019-04-22 13:13:53 ] file_url_from_html_never_changed = /web/20170306133110cs_/https://www.moderntld.com/assets/css/Material-icons.css
+[ 2019-04-22 13:13:53 ] file url = https://web.archive.org/web/20170306133110cs_/https://www.moderntld.com/assets/css/Material-icons.css
+[ 2019-04-22 13:13:53 ] >>>>>>>>> START >
+[ 2019-04-22 13:13:53 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:13:53 ] URL = https://web.archive.org/web/20170306133110cs_/https:/www.moderntld.com/assets/css/Material-icons.css
+[ 2019-04-22 13:13:53 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:13:53 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:13:53 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:13:55 ] code = 200
+[ 2019-04-22 13:13:55 ] Final URL = https://web.archive.org/web/20170306133107cs_/https://www.moderntld.com/assets/css/Material-icons.css ( Final code = 200 )
+[ 2019-04-22 13:13:55 ] >>>>>>>>> END >
+[ 2019-04-22 13:13:55 ] 
+[ 2019-04-22 13:13:55 ] 
+[ 2019-04-22 13:13:55 ] /**************************************************************/
+[ 2019-04-22 13:13:55 ] /*******		Extract 'css_from_import' files		**********/
+[ 2019-04-22 13:13:55 ] /*******		From    'assets/css/Material-icons.css'      **********/
+[ 2019-04-22 13:13:55 ] /**************************************************************/
+[ 2019-04-22 13:13:55 ] We still update 'files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html'
+[ 2019-04-22 13:13:55 ] There is no file with type 'css_from_import'
+[ 2019-04-22 13:13:55 ] /*******		End : Extract 'css_from_import' files		**********/
+[ 2019-04-22 13:13:55 ] /*******		      From    'assets/css/Material-icons.css'      **********/
+[ 2019-04-22 13:13:55 ] 
+[ 2019-04-22 13:13:55 ] 
+[ 2019-04-22 13:13:55 ] 
+[ 2019-04-22 13:13:55 ] /**************************************************************/
+[ 2019-04-22 13:13:55 ] /*******		Extract 'fonts_from_css' files		**********/
+[ 2019-04-22 13:13:55 ] /*******		From    'assets/css/Material-icons.css'      **********/
+[ 2019-04-22 13:13:55 ] /**************************************************************/
+[ 2019-04-22 13:13:55 ] We still update 'files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html'
+[ 2019-04-22 13:13:55 ] There is no file with type 'fonts_from_css'
+[ 2019-04-22 13:13:55 ] /*******		End : Extract 'fonts_from_css' files		**********/
+[ 2019-04-22 13:13:55 ] /*******		      From    'assets/css/Material-icons.css'      **********/
+[ 2019-04-22 13:13:55 ] 
+[ 2019-04-22 13:13:55 ] 
+[ 2019-04-22 13:13:55 ] 
+[ 2019-04-22 13:13:55 ] /**************************************************************/
+[ 2019-04-22 13:13:55 ] /*******		Extract 'background_images' files		**********/
+[ 2019-04-22 13:13:55 ] /*******		From    'assets/css/Material-icons.css'      **********/
+[ 2019-04-22 13:13:55 ] /**************************************************************/
+[ 2019-04-22 13:13:55 ] We still update 'files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html'
+[ 2019-04-22 13:14:54 ] There is no file with type 'background_images'
+[ 2019-04-22 13:14:54 ] /*******		End : Extract 'background_images' files		**********/
+[ 2019-04-22 13:14:54 ] /*******		      From    'assets/css/Material-icons.css'      **********/
+[ 2019-04-22 13:14:54 ] 
+[ 2019-04-22 13:14:54 ] remove_web() function
+[ 2019-04-22 13:14:54 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/Material-icons.css --> File Created !!!
+[ 2019-04-22 13:14:54 ] set_files_count_xml() function
+[ 2019-04-22 13:14:54 ] increment +1
+[ 2019-04-22 13:14:54 ] key = 'css' |  value = '1'
+[ 2019-04-22 13:14:54 ] ----------------------------------------------------------
+[ 2019-04-22 13:14:54 ] index.html : REPLACE '/web/20170306133110cs_/https://www.moderntld.com/assets/css/Material-icons.css' WITH 'assets/css/Material-icons.css'
+[ 2019-04-22 13:14:54 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:14:54 ] folder_path = 
+[ 2019-04-22 13:14:54 ] Page updated = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:14:54 ] remove_web() function
+[ 2019-04-22 13:14:54 ] moderntld.com_01507187_nz.is_vgtysebpin4/index.html ( Front page ) : update index.html
+[ 2019-04-22 13:14:54 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:14:54 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:14:54 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:14:54 ] folder_path = 
+[ 2019-04-22 13:14:54 ] file_url_from_html_never_changed = /web/20170306133110cs_/https://www.moderntld.com/assets/css/app.css
+[ 2019-04-22 13:14:54 ] file url = https://web.archive.org/web/20170306133110cs_/https://www.moderntld.com/assets/css/app.css
+[ 2019-04-22 13:14:54 ] >>>>>>>>> START >
+[ 2019-04-22 13:14:54 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:14:54 ] URL = https://web.archive.org/web/20170306133110cs_/https:/www.moderntld.com/assets/css/app.css
+[ 2019-04-22 13:14:54 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:14:54 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:14:54 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:14:55 ] code = 200
+[ 2019-04-22 13:14:55 ] Final URL = https://web.archive.org/web/20170306133433cs_/https://www.moderntld.com/assets/css/app.css ( Final code = 200 )
+[ 2019-04-22 13:14:55 ] >>>>>>>>> END >
+[ 2019-04-22 13:14:55 ] 
+[ 2019-04-22 13:14:55 ] 
+[ 2019-04-22 13:14:55 ] /**************************************************************/
+[ 2019-04-22 13:14:55 ] /*******		Extract 'css_from_import' files		**********/
+[ 2019-04-22 13:14:55 ] /*******		From    'assets/css/app.css'      **********/
+[ 2019-04-22 13:14:55 ] /**************************************************************/
+[ 2019-04-22 13:14:55 ] We still update 'files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html'
+[ 2019-04-22 13:14:55 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:14:55 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:14:55 ] folder_path = assets/css/
+[ 2019-04-22 13:14:55 ] file_url_from_html_never_changed = export:before{content:
+[ 2019-04-22 13:14:55 ] file url = https://web.archive.org/web/20170306133110cs_/https://www.moderntld.com/assets/css/app.css/export:before{content:
+[ 2019-04-22 13:14:55 ] >>>>>>>>> START >
+[ 2019-04-22 13:14:55 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:14:55 ] URL = https://web.archive.org/web/20170306133110cs_/https:/www.moderntld.com/assets/css/app.css/export:before{content:
+[ 2019-04-22 13:14:55 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:14:55 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:14:55 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:14:57 ] code = 404
+[ 2019-04-22 13:14:57 ]     No sleep!
+[ 2019-04-22 13:14:57 ] ---------------------------------------------------------------
+[ 2019-04-22 13:14:57 ] Test Num = 2
+[ 2019-04-22 13:14:57 ] \\\\
+[ 2019-04-22 13:14:57 ] get_curl() function launching ...
+[ 2019-04-22 13:14:57 ] URL = https://archive.org/wayback/available?url=https:/www.moderntld.com%2Fassets%2Fcss%2Fapp.css%2Fexport%3Abefore%7Bcontent%3A&timestamp=20170306133110cs_ ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:14:57 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:14:57 ] useragent = Mozilla/5.0 (X11; OpenBSD amd64; rv:28.0) Gecko/20100101 Firefox/28.0
+[ 2019-04-22 13:14:57 ] Final Code = 200
+[ 2019-04-22 13:14:57 ] Final HTML found = Yes
+[ 2019-04-22 13:14:57 ] ////
+[ 2019-04-22 13:14:57 ] This archive URL is not found https://web.archive.org/web/20170306133110cs_/https:/www.moderntld.com%2Fassets%2Fcss%2Fapp.css%2Fexport%3Abefore%7Bcontent%3A
+[ 2019-04-22 13:14:57 ] Archive API say that this url don't exist =  ( Final code = 404 )
+[ 2019-04-22 13:14:57 ] >>>>>>>>> END >
+[ 2019-04-22 13:14:57 ] This is a broken image :export:before{content:
+[ 2019-04-22 13:14:57 ] remove_web() function
+[ 2019-04-22 13:14:57 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:14:57 ] /*******		End : Extract 'css_from_import' files		**********/
+[ 2019-04-22 13:14:57 ] /*******		      From    'assets/css/app.css'      **********/
+[ 2019-04-22 13:14:57 ] 
+[ 2019-04-22 13:14:57 ] 
+[ 2019-04-22 13:14:57 ] 
+[ 2019-04-22 13:14:57 ] /**************************************************************/
+[ 2019-04-22 13:14:57 ] /*******		Extract 'fonts_from_css' files		**********/
+[ 2019-04-22 13:14:57 ] /*******		From    'assets/css/app.css'      **********/
+[ 2019-04-22 13:14:57 ] /**************************************************************/
+[ 2019-04-22 13:14:57 ] We still update 'files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html'
+[ 2019-04-22 13:14:57 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:14:57 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:14:57 ] folder_path = assets/css/
+[ 2019-04-22 13:14:57 ] file_url_from_html_never_changed = /web/20170306133433im_/https://www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.eot#iefix
+[ 2019-04-22 13:14:57 ] file url = https://web.archive.org/web/20170306133433im_/https://www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.eot#iefix
+[ 2019-04-22 13:14:57 ] >>>>>>>>> START >
+[ 2019-04-22 13:14:57 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:14:57 ] URL = https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.eot#iefix
+[ 2019-04-22 13:14:57 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:14:57 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:14:57 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:14:58 ] code = 404
+[ 2019-04-22 13:14:58 ]     No sleep!
+[ 2019-04-22 13:14:58 ] ---------------------------------------------------------------
+[ 2019-04-22 13:14:58 ] Test Num = 2
+[ 2019-04-22 13:14:58 ] \\\\
+[ 2019-04-22 13:14:58 ] get_curl() function launching ...
+[ 2019-04-22 13:14:58 ] URL = https://archive.org/wayback/available?url=https:/www.moderntld.com%2Fassets%2Ffonts%2Fmaterial-design-icons%2FMaterial-Design-Icons.eot%23iefix&timestamp=20170306133433im_ ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:14:58 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:15:00 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; chromeframe/11.0.696.57)
+[ 2019-04-22 13:15:00 ] Final Code = 200
+[ 2019-04-22 13:15:00 ] Final HTML found = Yes
+[ 2019-04-22 13:15:00 ] ////
+[ 2019-04-22 13:15:00 ] This archive URL is not found https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com%2Fassets%2Ffonts%2Fmaterial-design-icons%2FMaterial-Design-Icons.eot%23iefix
+[ 2019-04-22 13:15:00 ] Archive API say that this url don't exist =  ( Final code = 404 )
+[ 2019-04-22 13:15:00 ] >>>>>>>>> END >
+[ 2019-04-22 13:15:00 ] This is a broken image :/web/20170306133433im_/https://www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.eot#iefix
+[ 2019-04-22 13:15:00 ] remove_web() function
+[ 2019-04-22 13:15:00 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:00 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:15:00 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:00 ] folder_path = assets/css/
+[ 2019-04-22 13:15:00 ] file_url_from_html_never_changed = /web/20170306133433im_/https://www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.woff2
+[ 2019-04-22 13:15:00 ] file url = https://web.archive.org/web/20170306133433im_/https://www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.woff2
+[ 2019-04-22 13:15:00 ] >>>>>>>>> START >
+[ 2019-04-22 13:15:00 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:15:00 ] URL = https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.woff2
+[ 2019-04-22 13:15:00 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:15:00 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:15:00 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:15:01 ] code = 404
+[ 2019-04-22 13:15:01 ]     No sleep!
+[ 2019-04-22 13:15:01 ] ---------------------------------------------------------------
+[ 2019-04-22 13:15:01 ] Test Num = 2
+[ 2019-04-22 13:15:01 ] \\\\
+[ 2019-04-22 13:15:01 ] get_curl() function launching ...
+[ 2019-04-22 13:15:01 ] URL = https://archive.org/wayback/available?url=https:/www.moderntld.com%2Fassets%2Ffonts%2Fmaterial-design-icons%2FMaterial-Design-Icons.woff2&timestamp=20170306133433im_ ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:15:01 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:15:01 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:21.0) Gecko/20100101 Firefox/21.0
+[ 2019-04-22 13:15:01 ] Final Code = 200
+[ 2019-04-22 13:15:01 ] Final HTML found = Yes
+[ 2019-04-22 13:15:01 ] ////
+[ 2019-04-22 13:15:01 ] This archive URL is not found https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com%2Fassets%2Ffonts%2Fmaterial-design-icons%2FMaterial-Design-Icons.woff2
+[ 2019-04-22 13:15:01 ] Archive API say that this url don't exist =  ( Final code = 404 )
+[ 2019-04-22 13:15:01 ] >>>>>>>>> END >
+[ 2019-04-22 13:15:01 ] This is a broken image :/web/20170306133433im_/https://www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.woff2
+[ 2019-04-22 13:15:01 ] remove_web() function
+[ 2019-04-22 13:15:01 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:01 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:15:01 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:01 ] folder_path = assets/css/
+[ 2019-04-22 13:15:01 ] file_url_from_html_never_changed = /web/20170306133433im_/https://www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.woff
+[ 2019-04-22 13:15:01 ] file url = https://web.archive.org/web/20170306133433im_/https://www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.woff
+[ 2019-04-22 13:15:01 ] >>>>>>>>> START >
+[ 2019-04-22 13:15:01 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:15:01 ] URL = https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.woff
+[ 2019-04-22 13:15:01 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:15:01 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:15:01 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:15:03 ] code = 404
+[ 2019-04-22 13:15:03 ]     No sleep!
+[ 2019-04-22 13:15:03 ] ---------------------------------------------------------------
+[ 2019-04-22 13:15:03 ] Test Num = 2
+[ 2019-04-22 13:15:03 ] \\\\
+[ 2019-04-22 13:15:03 ] get_curl() function launching ...
+[ 2019-04-22 13:15:03 ] URL = https://archive.org/wayback/available?url=https:/www.moderntld.com%2Fassets%2Ffonts%2Fmaterial-design-icons%2FMaterial-Design-Icons.woff&timestamp=20170306133433im_ ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:15:03 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:15:04 ] useragent = Mozilla/5.0 (Windows; U; Windows NT 6.1; ko-KR) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-04-22 13:15:04 ] Final Code = 200
+[ 2019-04-22 13:15:04 ] Final HTML found = Yes
+[ 2019-04-22 13:15:04 ] ////
+[ 2019-04-22 13:15:04 ] This archive URL is not found https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com%2Fassets%2Ffonts%2Fmaterial-design-icons%2FMaterial-Design-Icons.woff
+[ 2019-04-22 13:15:04 ] Archive API say that this url don't exist =  ( Final code = 404 )
+[ 2019-04-22 13:15:04 ] >>>>>>>>> END >
+[ 2019-04-22 13:15:04 ] This is a broken image :/web/20170306133433im_/https://www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.woff
+[ 2019-04-22 13:15:04 ] remove_web() function
+[ 2019-04-22 13:15:04 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:04 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:15:04 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:04 ] folder_path = assets/css/
+[ 2019-04-22 13:15:04 ] file_url_from_html_never_changed = /web/20170306133433im_/https://www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.ttf
+[ 2019-04-22 13:15:04 ] file url = https://web.archive.org/web/20170306133433im_/https://www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.ttf
+[ 2019-04-22 13:15:04 ] >>>>>>>>> START >
+[ 2019-04-22 13:15:04 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:15:04 ] URL = https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.ttf
+[ 2019-04-22 13:15:04 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:15:04 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:15:04 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:15:05 ] code = 404
+[ 2019-04-22 13:15:05 ]     No sleep!
+[ 2019-04-22 13:15:05 ] ---------------------------------------------------------------
+[ 2019-04-22 13:15:05 ] Test Num = 2
+[ 2019-04-22 13:15:05 ] \\\\
+[ 2019-04-22 13:15:05 ] get_curl() function launching ...
+[ 2019-04-22 13:15:05 ] URL = https://archive.org/wayback/available?url=https:/www.moderntld.com%2Fassets%2Ffonts%2Fmaterial-design-icons%2FMaterial-Design-Icons.ttf&timestamp=20170306133433im_ ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:15:05 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:15:05 ] useragent = Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
+[ 2019-04-22 13:15:05 ] Final Code = 200
+[ 2019-04-22 13:15:05 ] Final HTML found = Yes
+[ 2019-04-22 13:15:05 ] ////
+[ 2019-04-22 13:15:05 ] This archive URL is not found https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com%2Fassets%2Ffonts%2Fmaterial-design-icons%2FMaterial-Design-Icons.ttf
+[ 2019-04-22 13:15:05 ] Archive API say that this url don't exist =  ( Final code = 404 )
+[ 2019-04-22 13:15:05 ] >>>>>>>>> END >
+[ 2019-04-22 13:15:05 ] This is a broken image :/web/20170306133433im_/https://www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.ttf
+[ 2019-04-22 13:15:05 ] remove_web() function
+[ 2019-04-22 13:15:05 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:05 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:15:05 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:05 ] folder_path = assets/css/
+[ 2019-04-22 13:15:05 ] file_url_from_html_never_changed = /web/20170306133433im_/https://www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.svg#Material-Design-Icons
+[ 2019-04-22 13:15:05 ] file url = https://web.archive.org/web/20170306133433im_/https://www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.svg#Material-Design-Icons
+[ 2019-04-22 13:15:05 ] >>>>>>>>> START >
+[ 2019-04-22 13:15:05 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:15:05 ] URL = https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.svg#Material-Design-Icons
+[ 2019-04-22 13:15:05 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:15:05 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:15:05 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:15:06 ] code = 404
+[ 2019-04-22 13:15:06 ]     No sleep!
+[ 2019-04-22 13:15:06 ] ---------------------------------------------------------------
+[ 2019-04-22 13:15:06 ] Test Num = 2
+[ 2019-04-22 13:15:06 ] \\\\
+[ 2019-04-22 13:15:06 ] get_curl() function launching ...
+[ 2019-04-22 13:15:06 ] URL = https://archive.org/wayback/available?url=https:/www.moderntld.com%2Fassets%2Ffonts%2Fmaterial-design-icons%2FMaterial-Design-Icons.svg%23Material-Design-Icons&timestamp=20170306133433im_ ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:15:06 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:15:07 ] useragent = Mozilla/5.0 (Windows; U; Windows NT 6.0; ja-JP) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-04-22 13:15:07 ] Final Code = 200
+[ 2019-04-22 13:15:07 ] Final HTML found = Yes
+[ 2019-04-22 13:15:07 ] ////
+[ 2019-04-22 13:15:07 ] This archive URL is not found https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com%2Fassets%2Ffonts%2Fmaterial-design-icons%2FMaterial-Design-Icons.svg%23Material-Design-Icons
+[ 2019-04-22 13:15:07 ] Archive API say that this url don't exist =  ( Final code = 404 )
+[ 2019-04-22 13:15:07 ] >>>>>>>>> END >
+[ 2019-04-22 13:15:07 ] This is a broken image :/web/20170306133433im_/https://www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.svg#Material-Design-Icons
+[ 2019-04-22 13:15:07 ] remove_web() function
+[ 2019-04-22 13:15:07 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:07 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:15:07 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:07 ] folder_path = assets/css/
+[ 2019-04-22 13:15:07 ] file_url_from_html_never_changed = /web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Thin.woff2
+[ 2019-04-22 13:15:07 ] file url = https://web.archive.org/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Thin.woff2
+[ 2019-04-22 13:15:07 ] >>>>>>>>> START >
+[ 2019-04-22 13:15:07 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:15:07 ] URL = https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com/assets/fonts/roboto/Roboto-Thin.woff2
+[ 2019-04-22 13:15:07 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:15:07 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:15:07 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:15:08 ] code = 200
+[ 2019-04-22 13:15:08 ] Final URL = https://web.archive.org/web/20180315164953im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Thin.woff2 ( Final code = 200 )
+[ 2019-04-22 13:15:08 ] >>>>>>>>> END >
+[ 2019-04-22 13:15:08 ] remove_web() function
+[ 2019-04-22 13:15:08 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/assets/fonts/roboto/Roboto-Thin.woff --> File Created !!!
+[ 2019-04-22 13:15:08 ] set_files_count_xml() function
+[ 2019-04-22 13:15:08 ] increment +1
+[ 2019-04-22 13:15:08 ] key = 'fonts' |  value = '1'
+[ 2019-04-22 13:15:08 ] ----------------------------------------------------------
+[ 2019-04-22 13:15:08 ] assets/css/app.css : REPLACE '/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Thin.woff2' WITH 'assets/fonts/roboto/Roboto-Thin.woff'
+[ 2019-04-22 13:15:08 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:08 ] folder_path = assets/css/
+[ 2019-04-22 13:15:08 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:08 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:15:08 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:08 ] folder_path = assets/css/
+[ 2019-04-22 13:15:08 ] file_url_from_html_never_changed = /web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Thin.woff
+[ 2019-04-22 13:15:08 ]  --> file already exist 2 -> files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/assets/fonts/roboto/Roboto-Thin.woff
+[ 2019-04-22 13:15:08 ] assets/css/app.css : REPLACE '/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Thin.woff' WITH 'assets/fonts/roboto/Roboto-Thin.woff'
+[ 2019-04-22 13:15:08 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:08 ] folder_path = assets/css/
+[ 2019-04-22 13:15:08 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:08 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:15:08 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:08 ] folder_path = assets/css/
+[ 2019-04-22 13:15:08 ] file_url_from_html_never_changed = /web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Thin.ttf
+[ 2019-04-22 13:15:08 ] file url = https://web.archive.org/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Thin.ttf
+[ 2019-04-22 13:15:08 ] >>>>>>>>> START >
+[ 2019-04-22 13:15:08 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:15:08 ] URL = https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com/assets/fonts/roboto/Roboto-Thin.ttf
+[ 2019-04-22 13:15:08 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:15:08 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:15:08 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:15:10 ] code = 404
+[ 2019-04-22 13:15:10 ]     No sleep!
+[ 2019-04-22 13:15:10 ] ---------------------------------------------------------------
+[ 2019-04-22 13:15:10 ] Test Num = 2
+[ 2019-04-22 13:15:10 ] \\\\
+[ 2019-04-22 13:15:10 ] get_curl() function launching ...
+[ 2019-04-22 13:15:10 ] URL = https://archive.org/wayback/available?url=https:/www.moderntld.com%2Fassets%2Ffonts%2Froboto%2FRoboto-Thin.ttf&timestamp=20170306133433im_ ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:15:10 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:15:10 ] useragent = Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_8; ja-jp) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-04-22 13:15:10 ] Final Code = 200
+[ 2019-04-22 13:15:10 ] Final HTML found = Yes
+[ 2019-04-22 13:15:10 ] ////
+[ 2019-04-22 13:15:10 ] This archive URL is not found https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com%2Fassets%2Ffonts%2Froboto%2FRoboto-Thin.ttf
+[ 2019-04-22 13:15:10 ] Archive API say that this url don't exist =  ( Final code = 404 )
+[ 2019-04-22 13:15:10 ] >>>>>>>>> END >
+[ 2019-04-22 13:15:10 ] This is a broken image :/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Thin.ttf
+[ 2019-04-22 13:15:10 ] remove_web() function
+[ 2019-04-22 13:15:10 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:10 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:15:10 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:10 ] folder_path = assets/css/
+[ 2019-04-22 13:15:10 ] file_url_from_html_never_changed = /web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Light.woff2
+[ 2019-04-22 13:15:10 ] file url = https://web.archive.org/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Light.woff2
+[ 2019-04-22 13:15:10 ] >>>>>>>>> START >
+[ 2019-04-22 13:15:10 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:15:10 ] URL = https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com/assets/fonts/roboto/Roboto-Light.woff2
+[ 2019-04-22 13:15:10 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:15:10 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:15:10 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:15:11 ] code = 200
+[ 2019-04-22 13:15:11 ] Final URL = https://web.archive.org/web/20180315164952im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Light.woff2 ( Final code = 200 )
+[ 2019-04-22 13:15:11 ] >>>>>>>>> END >
+[ 2019-04-22 13:15:11 ] remove_web() function
+[ 2019-04-22 13:15:11 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/assets/fonts/roboto/Roboto-Light.woff --> File Created !!!
+[ 2019-04-22 13:15:11 ] set_files_count_xml() function
+[ 2019-04-22 13:15:11 ] increment +1
+[ 2019-04-22 13:15:11 ] key = 'fonts' |  value = '2'
+[ 2019-04-22 13:15:11 ] ----------------------------------------------------------
+[ 2019-04-22 13:15:11 ] assets/css/app.css : REPLACE '/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Light.woff2' WITH 'assets/fonts/roboto/Roboto-Light.woff'
+[ 2019-04-22 13:15:11 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:11 ] folder_path = assets/css/
+[ 2019-04-22 13:15:11 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:11 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:15:11 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:11 ] folder_path = assets/css/
+[ 2019-04-22 13:15:11 ] file_url_from_html_never_changed = /web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Light.woff
+[ 2019-04-22 13:15:11 ]  --> file already exist 2 -> files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/assets/fonts/roboto/Roboto-Light.woff
+[ 2019-04-22 13:15:11 ] assets/css/app.css : REPLACE '/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Light.woff' WITH 'assets/fonts/roboto/Roboto-Light.woff'
+[ 2019-04-22 13:15:11 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:11 ] folder_path = assets/css/
+[ 2019-04-22 13:15:11 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:11 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:15:11 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:11 ] folder_path = assets/css/
+[ 2019-04-22 13:15:11 ] file_url_from_html_never_changed = /web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Light.ttf
+[ 2019-04-22 13:15:11 ] file url = https://web.archive.org/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Light.ttf
+[ 2019-04-22 13:15:11 ] >>>>>>>>> START >
+[ 2019-04-22 13:15:11 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:15:11 ] URL = https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com/assets/fonts/roboto/Roboto-Light.ttf
+[ 2019-04-22 13:15:11 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:15:11 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:15:11 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:15:12 ] code = 404
+[ 2019-04-22 13:15:12 ]     No sleep!
+[ 2019-04-22 13:15:12 ] ---------------------------------------------------------------
+[ 2019-04-22 13:15:12 ] Test Num = 2
+[ 2019-04-22 13:15:12 ] \\\\
+[ 2019-04-22 13:15:12 ] get_curl() function launching ...
+[ 2019-04-22 13:15:12 ] URL = https://archive.org/wayback/available?url=https:/www.moderntld.com%2Fassets%2Ffonts%2Froboto%2FRoboto-Light.ttf&timestamp=20170306133433im_ ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:15:12 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:15:13 ] useragent = Mozilla/5.0 (Windows NT 6.1; WOW64; rv:21.0) Gecko/20130330 Firefox/21.0
+[ 2019-04-22 13:15:13 ] Final Code = 200
+[ 2019-04-22 13:15:13 ] Final HTML found = Yes
+[ 2019-04-22 13:15:13 ] ////
+[ 2019-04-22 13:15:13 ] This archive URL is not found https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com%2Fassets%2Ffonts%2Froboto%2FRoboto-Light.ttf
+[ 2019-04-22 13:15:13 ] Archive API say that this url don't exist =  ( Final code = 404 )
+[ 2019-04-22 13:15:13 ] >>>>>>>>> END >
+[ 2019-04-22 13:15:13 ] This is a broken image :/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Light.ttf
+[ 2019-04-22 13:15:13 ] remove_web() function
+[ 2019-04-22 13:15:13 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:13 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:15:13 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:13 ] folder_path = assets/css/
+[ 2019-04-22 13:15:13 ] file_url_from_html_never_changed = /web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Regular.woff2
+[ 2019-04-22 13:15:13 ] file url = https://web.archive.org/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Regular.woff2
+[ 2019-04-22 13:15:13 ] >>>>>>>>> START >
+[ 2019-04-22 13:15:13 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:15:13 ] URL = https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com/assets/fonts/roboto/Roboto-Regular.woff2
+[ 2019-04-22 13:15:13 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:15:13 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:15:13 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:15:14 ] code = 200
+[ 2019-04-22 13:15:14 ] Final URL = https://web.archive.org/web/20180315164952im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Regular.woff2 ( Final code = 200 )
+[ 2019-04-22 13:15:14 ] >>>>>>>>> END >
+[ 2019-04-22 13:15:14 ] remove_web() function
+[ 2019-04-22 13:15:14 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/assets/fonts/roboto/Roboto-Regular.woff --> File Created !!!
+[ 2019-04-22 13:15:14 ] set_files_count_xml() function
+[ 2019-04-22 13:15:14 ] increment +1
+[ 2019-04-22 13:15:14 ] key = 'fonts' |  value = '3'
+[ 2019-04-22 13:15:14 ] ----------------------------------------------------------
+[ 2019-04-22 13:15:14 ] assets/css/app.css : REPLACE '/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Regular.woff2' WITH 'assets/fonts/roboto/Roboto-Regular.woff'
+[ 2019-04-22 13:15:14 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:14 ] folder_path = assets/css/
+[ 2019-04-22 13:15:14 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:14 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:15:14 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:14 ] folder_path = assets/css/
+[ 2019-04-22 13:15:14 ] file_url_from_html_never_changed = /web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Regular.woff
+[ 2019-04-22 13:15:14 ]  --> file already exist 2 -> files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/assets/fonts/roboto/Roboto-Regular.woff
+[ 2019-04-22 13:15:14 ] assets/css/app.css : REPLACE '/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Regular.woff' WITH 'assets/fonts/roboto/Roboto-Regular.woff'
+[ 2019-04-22 13:15:14 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:14 ] folder_path = assets/css/
+[ 2019-04-22 13:15:14 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:14 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:15:14 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:14 ] folder_path = assets/css/
+[ 2019-04-22 13:15:14 ] file_url_from_html_never_changed = /web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Regular.ttf
+[ 2019-04-22 13:15:14 ] file url = https://web.archive.org/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Regular.ttf
+[ 2019-04-22 13:15:14 ] >>>>>>>>> START >
+[ 2019-04-22 13:15:14 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:15:14 ] URL = https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com/assets/fonts/roboto/Roboto-Regular.ttf
+[ 2019-04-22 13:15:14 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:15:14 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:15:14 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:15:16 ] code = 404
+[ 2019-04-22 13:15:16 ]     No sleep!
+[ 2019-04-22 13:15:16 ] ---------------------------------------------------------------
+[ 2019-04-22 13:15:16 ] Test Num = 2
+[ 2019-04-22 13:15:16 ] \\\\
+[ 2019-04-22 13:15:16 ] get_curl() function launching ...
+[ 2019-04-22 13:15:16 ] URL = https://archive.org/wayback/available?url=https:/www.moderntld.com%2Fassets%2Ffonts%2Froboto%2FRoboto-Regular.ttf&timestamp=20170306133433im_ ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:15:16 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:15:16 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET CLR 1.1.4322; .NET4.0C; Tablet PC 2.0)
+[ 2019-04-22 13:15:16 ] Final Code = 200
+[ 2019-04-22 13:15:16 ] Final HTML found = Yes
+[ 2019-04-22 13:15:16 ] ////
+[ 2019-04-22 13:15:16 ] This archive URL is not found https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com%2Fassets%2Ffonts%2Froboto%2FRoboto-Regular.ttf
+[ 2019-04-22 13:15:16 ] Archive API say that this url don't exist =  ( Final code = 404 )
+[ 2019-04-22 13:15:16 ] >>>>>>>>> END >
+[ 2019-04-22 13:15:16 ] This is a broken image :/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Regular.ttf
+[ 2019-04-22 13:15:16 ] remove_web() function
+[ 2019-04-22 13:15:16 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:16 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:15:16 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:16 ] folder_path = assets/css/
+[ 2019-04-22 13:15:16 ] file_url_from_html_never_changed = /web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Medium.woff2
+[ 2019-04-22 13:15:16 ] file url = https://web.archive.org/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Medium.woff2
+[ 2019-04-22 13:15:16 ] >>>>>>>>> START >
+[ 2019-04-22 13:15:16 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:15:16 ] URL = https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com/assets/fonts/roboto/Roboto-Medium.woff2
+[ 2019-04-22 13:15:16 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:15:16 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:15:16 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:15:17 ] code = 404
+[ 2019-04-22 13:15:17 ]     No sleep!
+[ 2019-04-22 13:15:17 ] ---------------------------------------------------------------
+[ 2019-04-22 13:15:17 ] Test Num = 2
+[ 2019-04-22 13:15:17 ] \\\\
+[ 2019-04-22 13:15:17 ] get_curl() function launching ...
+[ 2019-04-22 13:15:17 ] URL = https://archive.org/wayback/available?url=https:/www.moderntld.com%2Fassets%2Ffonts%2Froboto%2FRoboto-Medium.woff2&timestamp=20170306133433im_ ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:15:17 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:15:17 ] useragent = Mozilla/5.0 (Windows NT 4.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+[ 2019-04-22 13:15:17 ] Final Code = 200
+[ 2019-04-22 13:15:17 ] Final HTML found = Yes
+[ 2019-04-22 13:15:17 ] ////
+[ 2019-04-22 13:15:17 ] This archive URL is not found https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com%2Fassets%2Ffonts%2Froboto%2FRoboto-Medium.woff2
+[ 2019-04-22 13:15:17 ] Archive API say that this url don't exist =  ( Final code = 404 )
+[ 2019-04-22 13:15:17 ] >>>>>>>>> END >
+[ 2019-04-22 13:15:17 ] This is a broken image :/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Medium.woff2
+[ 2019-04-22 13:15:17 ] remove_web() function
+[ 2019-04-22 13:15:17 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:17 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:15:17 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:17 ] folder_path = assets/css/
+[ 2019-04-22 13:15:17 ] file_url_from_html_never_changed = /web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Medium.woff
+[ 2019-04-22 13:15:17 ] file url = https://web.archive.org/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Medium.woff
+[ 2019-04-22 13:15:17 ] >>>>>>>>> START >
+[ 2019-04-22 13:15:17 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:15:17 ] URL = https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com/assets/fonts/roboto/Roboto-Medium.woff
+[ 2019-04-22 13:15:17 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:15:17 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:15:17 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:15:20 ] code = 404
+[ 2019-04-22 13:15:20 ]     No sleep!
+[ 2019-04-22 13:15:20 ] ---------------------------------------------------------------
+[ 2019-04-22 13:15:20 ] Test Num = 2
+[ 2019-04-22 13:15:20 ] \\\\
+[ 2019-04-22 13:15:20 ] get_curl() function launching ...
+[ 2019-04-22 13:15:20 ] URL = https://archive.org/wayback/available?url=https:/www.moderntld.com%2Fassets%2Ffonts%2Froboto%2FRoboto-Medium.woff&timestamp=20170306133433im_ ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:15:20 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:15:20 ] useragent = Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-04-22 13:15:20 ] Final Code = 200
+[ 2019-04-22 13:15:20 ] Final HTML found = Yes
+[ 2019-04-22 13:15:20 ] ////
+[ 2019-04-22 13:15:20 ] This archive URL is not found https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com%2Fassets%2Ffonts%2Froboto%2FRoboto-Medium.woff
+[ 2019-04-22 13:15:20 ] Archive API say that this url don't exist =  ( Final code = 404 )
+[ 2019-04-22 13:15:20 ] >>>>>>>>> END >
+[ 2019-04-22 13:15:20 ] This is a broken image :/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Medium.woff
+[ 2019-04-22 13:15:20 ] remove_web() function
+[ 2019-04-22 13:15:20 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:20 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:15:20 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:20 ] folder_path = assets/css/
+[ 2019-04-22 13:15:20 ] file_url_from_html_never_changed = /web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Medium.ttf
+[ 2019-04-22 13:15:20 ] file url = https://web.archive.org/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Medium.ttf
+[ 2019-04-22 13:15:20 ] >>>>>>>>> START >
+[ 2019-04-22 13:15:20 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:15:20 ] URL = https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com/assets/fonts/roboto/Roboto-Medium.ttf
+[ 2019-04-22 13:15:20 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:15:20 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:15:20 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:15:22 ] code = 404
+[ 2019-04-22 13:15:22 ]     No sleep!
+[ 2019-04-22 13:15:22 ] ---------------------------------------------------------------
+[ 2019-04-22 13:15:22 ] Test Num = 2
+[ 2019-04-22 13:15:22 ] \\\\
+[ 2019-04-22 13:15:22 ] get_curl() function launching ...
+[ 2019-04-22 13:15:22 ] URL = https://archive.org/wayback/available?url=https:/www.moderntld.com%2Fassets%2Ffonts%2Froboto%2FRoboto-Medium.ttf&timestamp=20170306133433im_ ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:15:22 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:15:22 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/4.0; GTB7.4; InfoPath.3; SV1; .NET CLR 3.1.76908; WOW64; en-US)
+[ 2019-04-22 13:15:22 ] Final Code = 200
+[ 2019-04-22 13:15:22 ] Final HTML found = Yes
+[ 2019-04-22 13:15:22 ] ////
+[ 2019-04-22 13:15:22 ] This archive URL is not found https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com%2Fassets%2Ffonts%2Froboto%2FRoboto-Medium.ttf
+[ 2019-04-22 13:15:22 ] Archive API say that this url don't exist =  ( Final code = 404 )
+[ 2019-04-22 13:15:22 ] >>>>>>>>> END >
+[ 2019-04-22 13:15:22 ] This is a broken image :/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Medium.ttf
+[ 2019-04-22 13:15:22 ] remove_web() function
+[ 2019-04-22 13:15:22 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:22 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:15:22 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:22 ] folder_path = assets/css/
+[ 2019-04-22 13:15:22 ] file_url_from_html_never_changed = /web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Bold.woff2
+[ 2019-04-22 13:15:22 ] file url = https://web.archive.org/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Bold.woff2
+[ 2019-04-22 13:15:22 ] >>>>>>>>> START >
+[ 2019-04-22 13:15:22 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:15:22 ] URL = https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com/assets/fonts/roboto/Roboto-Bold.woff2
+[ 2019-04-22 13:15:22 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:15:22 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:15:22 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:15:23 ] code = 200
+[ 2019-04-22 13:15:23 ] Final URL = https://web.archive.org/web/20180315164953im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Bold.woff2 ( Final code = 200 )
+[ 2019-04-22 13:15:23 ] >>>>>>>>> END >
+[ 2019-04-22 13:15:23 ] remove_web() function
+[ 2019-04-22 13:15:23 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/assets/fonts/roboto/Roboto-Bold.woff --> File Created !!!
+[ 2019-04-22 13:15:23 ] set_files_count_xml() function
+[ 2019-04-22 13:15:23 ] increment +1
+[ 2019-04-22 13:15:23 ] key = 'fonts' |  value = '4'
+[ 2019-04-22 13:15:23 ] ----------------------------------------------------------
+[ 2019-04-22 13:15:23 ] assets/css/app.css : REPLACE '/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Bold.woff2' WITH 'assets/fonts/roboto/Roboto-Bold.woff'
+[ 2019-04-22 13:15:23 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:23 ] folder_path = assets/css/
+[ 2019-04-22 13:15:23 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:23 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:15:23 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:23 ] folder_path = assets/css/
+[ 2019-04-22 13:15:23 ] file_url_from_html_never_changed = /web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Bold.woff
+[ 2019-04-22 13:15:23 ]  --> file already exist 2 -> files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/assets/fonts/roboto/Roboto-Bold.woff
+[ 2019-04-22 13:15:23 ] assets/css/app.css : REPLACE '/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Bold.woff' WITH 'assets/fonts/roboto/Roboto-Bold.woff'
+[ 2019-04-22 13:15:23 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:23 ] folder_path = assets/css/
+[ 2019-04-22 13:15:23 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:23 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:15:23 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:23 ] folder_path = assets/css/
+[ 2019-04-22 13:15:23 ] file_url_from_html_never_changed = /web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Bold.ttf
+[ 2019-04-22 13:15:23 ] file url = https://web.archive.org/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Bold.ttf
+[ 2019-04-22 13:15:23 ] >>>>>>>>> START >
+[ 2019-04-22 13:15:23 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:15:23 ] URL = https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com/assets/fonts/roboto/Roboto-Bold.ttf
+[ 2019-04-22 13:15:23 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:15:23 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:15:23 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:15:24 ] code = 404
+[ 2019-04-22 13:15:24 ]     No sleep!
+[ 2019-04-22 13:15:24 ] ---------------------------------------------------------------
+[ 2019-04-22 13:15:24 ] Test Num = 2
+[ 2019-04-22 13:15:24 ] \\\\
+[ 2019-04-22 13:15:24 ] get_curl() function launching ...
+[ 2019-04-22 13:15:24 ] URL = https://archive.org/wayback/available?url=https:/www.moderntld.com%2Fassets%2Ffonts%2Froboto%2FRoboto-Bold.ttf&timestamp=20170306133433im_ ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:15:24 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:15:25 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; chromeframe/11.0.696.57)
+[ 2019-04-22 13:15:25 ] Final Code = 200
+[ 2019-04-22 13:15:25 ] Final HTML found = Yes
+[ 2019-04-22 13:15:25 ] ////
+[ 2019-04-22 13:15:25 ] This archive URL is not found https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com%2Fassets%2Ffonts%2Froboto%2FRoboto-Bold.ttf
+[ 2019-04-22 13:15:25 ] Archive API say that this url don't exist =  ( Final code = 404 )
+[ 2019-04-22 13:15:25 ] >>>>>>>>> END >
+[ 2019-04-22 13:15:25 ] This is a broken image :/web/20170306133433im_/https://www.moderntld.com/assets/fonts/roboto/Roboto-Bold.ttf
+[ 2019-04-22 13:15:25 ] remove_web() function
+[ 2019-04-22 13:15:25 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:25 ] /*******		End : Extract 'fonts_from_css' files		**********/
+[ 2019-04-22 13:15:25 ] /*******		      From    'assets/css/app.css'      **********/
+[ 2019-04-22 13:15:25 ] 
+[ 2019-04-22 13:15:25 ] 
+[ 2019-04-22 13:15:25 ] 
+[ 2019-04-22 13:15:25 ] /**************************************************************/
+[ 2019-04-22 13:15:25 ] /*******		Extract 'background_images' files		**********/
+[ 2019-04-22 13:15:25 ] /*******		From    'assets/css/app.css'      **********/
+[ 2019-04-22 13:15:25 ] /**************************************************************/
+[ 2019-04-22 13:15:25 ] We still update 'files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html'
+[ 2019-04-22 13:15:25 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:15:25 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:25 ] folder_path = assets/css/img
+[ 2019-04-22 13:15:25 ] file_url_from_html_never_changed = /web/20170306133433im_/https://www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.svg#Material-Design-Icons
+[ 2019-04-22 13:15:25 ] file url = https://web.archive.org/web/20170306133433im_/https://www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.svg#Material-Design-Icons
+[ 2019-04-22 13:15:25 ] >>>>>>>>> START >
+[ 2019-04-22 13:15:25 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:15:25 ] URL = https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.svg#Material-Design-Icons
+[ 2019-04-22 13:15:25 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:15:25 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:15:25 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:15:25 ] code = 404
+[ 2019-04-22 13:15:25 ]     No sleep!
+[ 2019-04-22 13:15:25 ] ---------------------------------------------------------------
+[ 2019-04-22 13:15:25 ] Test Num = 2
+[ 2019-04-22 13:15:25 ] \\\\
+[ 2019-04-22 13:15:25 ] get_curl() function launching ...
+[ 2019-04-22 13:15:25 ] URL = https://archive.org/wayback/available?url=https:/www.moderntld.com%2Fassets%2Ffonts%2Fmaterial-design-icons%2FMaterial-Design-Icons.svg%23Material-Design-Icons&timestamp=20170306133433im_ ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:15:25 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:15:25 ] useragent = Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-04-22 13:15:25 ] Final Code = 200
+[ 2019-04-22 13:15:25 ] Final HTML found = Yes
+[ 2019-04-22 13:15:25 ] ////
+[ 2019-04-22 13:15:25 ] This archive URL is not found https://web.archive.org/web/20170306133433im_/https:/www.moderntld.com%2Fassets%2Ffonts%2Fmaterial-design-icons%2FMaterial-Design-Icons.svg%23Material-Design-Icons
+[ 2019-04-22 13:15:25 ] Archive API say that this url don't exist =  ( Final code = 404 )
+[ 2019-04-22 13:15:25 ] >>>>>>>>> END >
+[ 2019-04-22 13:15:25 ] This is a broken image :/web/20170306133433im_/https://www.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.svg#Material-Design-Icons
+[ 2019-04-22 13:15:25 ] remove_web() function
+[ 2019-04-22 13:15:25 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:25 ] /*******		End : Extract 'background_images' files		**********/
+[ 2019-04-22 13:15:25 ] /*******		      From    'assets/css/app.css'      **********/
+[ 2019-04-22 13:15:25 ] 
+[ 2019-04-22 13:15:25 ] remove_web() function
+[ 2019-04-22 13:15:25 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/app.css --> File Created !!!
+[ 2019-04-22 13:15:25 ] set_files_count_xml() function
+[ 2019-04-22 13:15:25 ] increment +1
+[ 2019-04-22 13:15:25 ] key = 'css' |  value = '2'
+[ 2019-04-22 13:15:25 ] ----------------------------------------------------------
+[ 2019-04-22 13:15:25 ] index.html : REPLACE '/web/20170306133110cs_/https://www.moderntld.com/assets/css/app.css' WITH 'assets/css/app.css'
+[ 2019-04-22 13:15:25 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:25 ] folder_path = 
+[ 2019-04-22 13:15:25 ] Page updated = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:25 ] remove_web() function
+[ 2019-04-22 13:15:25 ] moderntld.com_01507187_nz.is_vgtysebpin4/index.html ( Front page ) : update index.html
+[ 2019-04-22 13:15:25 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:25 ] /*******		End : Extract 'css' files		**********/
+[ 2019-04-22 13:15:25 ] /*******		      From    'index.html'      **********/
+[ 2019-04-22 13:15:25 ] 
+[ 2019-04-22 13:15:25 ] 
+[ 2019-04-22 13:15:25 ] 
+[ 2019-04-22 13:15:25 ] /**************************************************************/
+[ 2019-04-22 13:15:25 ] /*******		Extract 'img' files		**********/
+[ 2019-04-22 13:15:25 ] /*******		From    'index.html'      **********/
+[ 2019-04-22 13:15:25 ] /**************************************************************/
+[ 2019-04-22 13:15:25 ] We still update 'files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html'
+[ 2019-04-22 13:15:26 ] There is no file with type 'img'
+[ 2019-04-22 13:15:26 ] /*******		End : Extract 'img' files		**********/
+[ 2019-04-22 13:15:26 ] /*******		      From    'index.html'      **********/
+[ 2019-04-22 13:15:26 ] 
+[ 2019-04-22 13:15:26 ] 
+[ 2019-04-22 13:15:26 ] 
+[ 2019-04-22 13:15:26 ] /**************************************************************/
+[ 2019-04-22 13:15:26 ] /*******		Extract 'background_images' files		**********/
+[ 2019-04-22 13:15:26 ] /*******		From    'index.html'      **********/
+[ 2019-04-22 13:15:26 ] /**************************************************************/
+[ 2019-04-22 13:15:26 ] We still update 'files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html'
+[ 2019-04-22 13:15:26 ] There is no file with type 'background_images'
+[ 2019-04-22 13:15:26 ] /*******		End : Extract 'background_images' files		**********/
+[ 2019-04-22 13:15:26 ] /*******		      From    'index.html'      **********/
+[ 2019-04-22 13:15:26 ] 
+[ 2019-04-22 13:15:26 ] 
+[ 2019-04-22 13:15:26 ] 
+[ 2019-04-22 13:15:26 ] /**************************************************************/
+[ 2019-04-22 13:15:26 ] /*******		Extract 'background_images_in_html' files		**********/
+[ 2019-04-22 13:15:26 ] /*******		From    'index.html'      **********/
+[ 2019-04-22 13:15:26 ] /**************************************************************/
+[ 2019-04-22 13:15:26 ] We still update 'files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html'
+[ 2019-04-22 13:15:26 ] There is no file with type 'background_images_in_html'
+[ 2019-04-22 13:15:26 ] /*******		End : Extract 'background_images_in_html' files		**********/
+[ 2019-04-22 13:15:26 ] /*******		      From    'index.html'      **********/
+[ 2019-04-22 13:15:26 ] 
+[ 2019-04-22 13:15:26 ] 
+[ 2019-04-22 13:15:26 ] 
+[ 2019-04-22 13:15:26 ] /**************************************************************/
+[ 2019-04-22 13:15:26 ] /*******		Extract 'script' files		**********/
+[ 2019-04-22 13:15:26 ] /*******		From    'index.html'      **********/
+[ 2019-04-22 13:15:26 ] /**************************************************************/
+[ 2019-04-22 13:15:26 ] We still update 'files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html'
+[ 2019-04-22 13:15:26 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:15:26 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:26 ] folder_path = 
+[ 2019-04-22 13:15:26 ] file_url_from_html_never_changed = /web/20170306133110js_/https://www.moderntld.com/assets/js/jquery.js
+[ 2019-04-22 13:15:26 ] file url = https://web.archive.org/web/20170306133110js_/https://www.moderntld.com/assets/js/jquery.js
+[ 2019-04-22 13:15:26 ] >>>>>>>>> START >
+[ 2019-04-22 13:15:26 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:15:26 ] URL = https://web.archive.org/web/20170306133110js_/https:/www.moderntld.com/assets/js/jquery.js
+[ 2019-04-22 13:15:26 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:15:26 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:15:26 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:15:27 ] code = 200
+[ 2019-04-22 13:15:27 ] Final URL = https://web.archive.org/web/20170306132354js_/https://www.moderntld.com/assets/js/jquery.js ( Final code = 200 )
+[ 2019-04-22 13:15:27 ] >>>>>>>>> END >
+[ 2019-04-22 13:15:27 ] remove_web() function
+[ 2019-04-22 13:15:27 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/js/jquery.js --> File Created !!!
+[ 2019-04-22 13:15:27 ] set_files_count_xml() function
+[ 2019-04-22 13:15:27 ] increment +1
+[ 2019-04-22 13:15:27 ] key = 'js' |  value = '1'
+[ 2019-04-22 13:15:27 ] ----------------------------------------------------------
+[ 2019-04-22 13:15:27 ] index.html : REPLACE '/web/20170306133110js_/https://www.moderntld.com/assets/js/jquery.js' WITH 'assets/js/jquery.js'
+[ 2019-04-22 13:15:27 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:27 ] folder_path = 
+[ 2019-04-22 13:15:27 ] Page updated = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:27 ] remove_web() function
+[ 2019-04-22 13:15:27 ] moderntld.com_01507187_nz.is_vgtysebpin4/index.html ( Front page ) : update index.html
+[ 2019-04-22 13:15:27 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:27 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:15:27 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:27 ] folder_path = 
+[ 2019-04-22 13:15:27 ] file_url_from_html_never_changed = /web/20170306133110js_/https://www.moderntld.com/assets/js/materialize.js
+[ 2019-04-22 13:15:27 ] file url = https://web.archive.org/web/20170306133110js_/https://www.moderntld.com/assets/js/materialize.js
+[ 2019-04-22 13:15:27 ] >>>>>>>>> START >
+[ 2019-04-22 13:15:27 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:15:27 ] URL = https://web.archive.org/web/20170306133110js_/https:/www.moderntld.com/assets/js/materialize.js
+[ 2019-04-22 13:15:27 ] main_archive_url = https://web.archive.org/web/20170306133110/https://www.moderntld.com//
+[ 2019-04-22 13:15:27 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:15:27 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:15:28 ] code = 200
+[ 2019-04-22 13:15:28 ] Final URL = https://web.archive.org/web/20170306205953js_/https://www.moderntld.com/assets/js/materialize.js ( Final code = 200 )
+[ 2019-04-22 13:15:28 ] >>>>>>>>> END >
+[ 2019-04-22 13:15:28 ] remove_web() function
+[ 2019-04-22 13:15:28 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/js/materialize.js --> File Created !!!
+[ 2019-04-22 13:15:28 ] set_files_count_xml() function
+[ 2019-04-22 13:15:28 ] increment +1
+[ 2019-04-22 13:15:28 ] key = 'js' |  value = '2'
+[ 2019-04-22 13:15:28 ] ----------------------------------------------------------
+[ 2019-04-22 13:15:28 ] index.html : REPLACE '/web/20170306133110js_/https://www.moderntld.com/assets/js/materialize.js' WITH 'assets/js/materialize.js'
+[ 2019-04-22 13:15:28 ] update_html_file_path = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:28 ] folder_path = 
+[ 2019-04-22 13:15:28 ] Page updated = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html
+[ 2019-04-22 13:15:28 ] remove_web() function
+[ 2019-04-22 13:15:28 ] moderntld.com_01507187_nz.is_vgtysebpin4/index.html ( Front page ) : update index.html
+[ 2019-04-22 13:15:28 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:28 ] /*******		End : Extract 'script' files		**********/
+[ 2019-04-22 13:15:28 ] /*******		      From    'index.html'      **********/
+[ 2019-04-22 13:15:28 ] 
+[ 2019-04-22 13:15:28 ] 
+[ 2019-04-22 13:15:28 ] 
+[ 2019-04-22 13:15:28 ] /**************************************************************/
+[ 2019-04-22 13:15:28 ] /*******		Extract 'swf' files		**********/
+[ 2019-04-22 13:15:28 ] /*******		From    'index.html'      **********/
+[ 2019-04-22 13:15:28 ] /**************************************************************/
+[ 2019-04-22 13:15:28 ] We still update 'files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/index.html'
+[ 2019-04-22 13:15:28 ] There is no file with type 'swf'
+[ 2019-04-22 13:15:28 ] /*******		End : Extract 'swf' files		**********/
+[ 2019-04-22 13:15:28 ] /*******		      From    'index.html'      **********/
+[ 2019-04-22 13:15:28 ] 
+[ 2019-04-22 13:15:28 ] remove_web() function
+[ 2019-04-22 13:15:28 ] moderntld.com_01507187_nz.is_vgtysebpin4/index.html --> HTML File Created !!!
+[ 2019-04-22 13:15:28 ] ----------------------------------------------------------------------
+[ 2019-04-22 13:15:28 ] update  to_create_arr[0][is_done] = 1
+[ 2019-04-22 13:15:28 ] set_files_count_xml() function
+[ 2019-04-22 13:15:28 ] key = 'html_total' |  value = '2'
+[ 2019-04-22 13:15:28 ] key = 'html_done' |  value = '1'
+[ 2019-04-22 13:15:28 ] ----------------------------------------------------------
+[ 2019-04-22 13:15:28 ] ( 1 / 2 )  Done - 5 error pages fixed
+[ 2019-04-22 13:15:28 ] ------------------------------------------------------------------
+[ 2019-04-22 13:15:28 ] set_files_count_xml() function
+[ 2019-04-22 13:15:28 ] key = 'html_total' |  value = '2'
+[ 2019-04-22 13:15:28 ] key = 'html_done' |  value = '1'
+[ 2019-04-22 13:15:28 ] ----------------------------------------------------------
+[ 2019-04-22 13:15:28 ] ( 1 / 2 )  Done - 5 error pages fixed
+[ 2019-04-22 13:15:28 ] blog_subdomain/index.html -> File name found in to_create_arr
+[ 2019-04-22 13:15:28 ] #####################################################################################################
+[ 2019-04-22 13:15:28 ] ###############https://web.archive.org/web/20180331031825/https://blog.moderntld.com/ ( Scraping  of 2 / 2 )  - 5 error pages fixed###############
+[ 2019-04-22 13:15:28 ] ###############Local URL = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/blog_subdomain/index.html (code = 200) ###############
+[ 2019-04-22 13:15:28 ] ###############Try number = 1###############
+[ 2019-04-22 13:15:28 ] #####################################################################################################
+[ 2019-04-22 13:15:28 ]  Main level =1
+[ 2019-04-22 13:15:28 ] >>>>>>>>> START >
+[ 2019-04-22 13:15:28 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:15:28 ] URL = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:15:28 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:15:28 ] no proxy used ( Test nbr 1/5 )
+[ 2019-04-22 13:15:28 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:15:28 ] code = 200
+[ 2019-04-22 13:15:28 ] Final URL = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/ ( Final code = 200 )
+[ 2019-04-22 13:15:28 ] >>>>>>>>> END >
+[ 2019-04-22 13:15:28 ] removeArchiveHeader() from the HTML file
+[ 2019-04-22 13:15:28 ] Original encoding = UTF-8
+[ 2019-04-22 13:15:28 ] Original encoding is in probably UTF-8= true
+[ 2019-04-22 13:15:28 ] ----------------------------------------
+[ 2019-04-22 13:15:28 ] Check Encoding And then fix it
+[ 2019-04-22 13:15:28 ] Final encoding = UTF-8
+[ 2019-04-22 13:15:28 ] Language = N/A
+[ 2019-04-22 13:15:28 ] Is pertty URL : Yes
+[ 2019-04-22 13:15:28 ] ###############################################################
+[ 2019-04-22 13:15:28 ] Original Href  = /web/20180331031825/https://blog.moderntld.com/ - [( 0/9 )]
+[ 2019-04-22 13:15:28 ] href = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/ ( is_internal_url = Yes )
+[ 2019-04-22 13:15:28 ] this file_name already exist in 'to_create_arr' => 'blog_subdomain/index.html'
+[ 2019-04-22 13:15:28 ] 1 - 'blog_subdomain/index.html' : Replace 'https://web.archive.org/web/20180331031825/https://blog.moderntld.com/' with '../../blog_subdomain/index/'
+[ 2019-04-22 13:15:28 ] 2 - 'blog_subdomain/index.html' : Replace '/web/20180331031825/https://blog.moderntld.com/' with '../../blog_subdomain/index/'
+[ 2019-04-22 13:15:28 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:28 ] ###############################################################
+[ 2019-04-22 13:15:28 ] Original Href  = https://web.archive.org/web/20180331031825/https://www.moderntld.com/ - [( 1/9 )]
+[ 2019-04-22 13:15:28 ] href = https://web.archive.org/web/20180331031825/https://www.moderntld.com/ ( is_internal_url = Yes )
+[ 2019-04-22 13:15:28 ] 2 - 'blog_subdomain/index.html' : Replace 'https://web.archive.org/web/20180331031825/https://www.moderntld.com/' with '/'
+[ 2019-04-22 13:15:28 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:28 ] ###############################################################
+[ 2019-04-22 13:15:28 ] Original Href  = /web/20180331031825/https://blog.moderntld.com/keys/ - [( 2/9 )]
+[ 2019-04-22 13:15:28 ] href = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/keys/ ( is_internal_url = Yes )
+[ 2019-04-22 13:15:28 ] set_files_count_xml() function
+[ 2019-04-22 13:15:28 ] key = 'html_total' |  value = '3'
+[ 2019-04-22 13:15:28 ] key = 'html_done' |  value = '1'
+[ 2019-04-22 13:15:28 ] ----------------------------------------------------------
+[ 2019-04-22 13:15:28 ] ( 1 / 3 )  Done - 5 error pages fixed
+[ 2019-04-22 13:15:28 ] 2 - 'blog_subdomain/index.html' : Replace '/web/20180331031825/https://blog.moderntld.com/keys/' with '../../blog_subdomain/keys/'
+[ 2019-04-22 13:15:28 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:28 ] ###############################################################
+[ 2019-04-22 13:15:28 ] Original Href  = /web/20180331031825/https://blog.moderntld.com/news/2017/04/20/o-registration-system-online/ - [( 3/9 )]
+[ 2019-04-22 13:15:28 ] href = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/news/2017/04/20/o-registration-system-online/ ( is_internal_url = Yes )
+[ 2019-04-22 13:15:28 ] set_files_count_xml() function
+[ 2019-04-22 13:15:28 ] key = 'html_total' |  value = '4'
+[ 2019-04-22 13:15:28 ] key = 'html_done' |  value = '1'
+[ 2019-04-22 13:15:28 ] ----------------------------------------------------------
+[ 2019-04-22 13:15:28 ] ( 1 / 4 )  Done - 5 error pages fixed
+[ 2019-04-22 13:15:28 ] 2 - 'blog_subdomain/index.html' : Replace '/web/20180331031825/https://blog.moderntld.com/news/2017/04/20/o-registration-system-online/' with '../../blog_subdomain/news/2017/04/20/o-registration-system-online/'
+[ 2019-04-22 13:15:28 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:28 ] ###############################################################
+[ 2019-04-22 13:15:28 ] Original Href  = /web/20180331031825/https://blog.moderntld.com/news/2017/02/04/moving-to-github-pages/ - [( 4/9 )]
+[ 2019-04-22 13:15:28 ] href = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/news/2017/02/04/moving-to-github-pages/ ( is_internal_url = Yes )
+[ 2019-04-22 13:15:28 ] set_files_count_xml() function
+[ 2019-04-22 13:15:28 ] key = 'html_total' |  value = '5'
+[ 2019-04-22 13:15:28 ] key = 'html_done' |  value = '1'
+[ 2019-04-22 13:15:28 ] ----------------------------------------------------------
+[ 2019-04-22 13:15:28 ] ( 1 / 5 )  Done - 5 error pages fixed
+[ 2019-04-22 13:15:28 ] 2 - 'blog_subdomain/index.html' : Replace '/web/20180331031825/https://blog.moderntld.com/news/2017/02/04/moving-to-github-pages/' with '../../blog_subdomain/news/2017/02/04/moving-to-github-pages/'
+[ 2019-04-22 13:15:28 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:28 ] ###############################################################
+[ 2019-04-22 13:15:28 ] Original Href  = /web/20180331031825/https://blog.moderntld.com/news/2016/11/27/o-proposal-voting-ends/ - [( 5/9 )]
+[ 2019-04-22 13:15:28 ] href = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/news/2016/11/27/o-proposal-voting-ends/ ( is_internal_url = Yes )
+[ 2019-04-22 13:15:28 ] set_files_count_xml() function
+[ 2019-04-22 13:15:28 ] key = 'html_total' |  value = '6'
+[ 2019-04-22 13:15:28 ] key = 'html_done' |  value = '1'
+[ 2019-04-22 13:15:28 ] ----------------------------------------------------------
+[ 2019-04-22 13:15:28 ] ( 1 / 6 )  Done - 5 error pages fixed
+[ 2019-04-22 13:15:28 ] 2 - 'blog_subdomain/index.html' : Replace '/web/20180331031825/https://blog.moderntld.com/news/2016/11/27/o-proposal-voting-ends/' with '../../blog_subdomain/news/2016/11/27/o-proposal-voting-ends/'
+[ 2019-04-22 13:15:28 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:28 ] ###############################################################
+[ 2019-04-22 13:15:28 ] Original Href  = https://web.archive.org/web/20180331031825/https://github.com/ModernTLD - [( 6/9 )]
+[ 2019-04-22 13:15:28 ] href = https://web.archive.org/web/20180331031825/https://github.com/ModernTLD ( is_internal_url = No )
+[ 2019-04-22 13:15:28 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:28 ] ###############################################################
+[ 2019-04-22 13:15:28 ] Original Href  = https://web.archive.org/web/20180331031825/https://twitter.com/ModernTLD - [( 7/9 )]
+[ 2019-04-22 13:15:28 ] href = https://web.archive.org/web/20180331031825/https://twitter.com/ModernTLD ( is_internal_url = No )
+[ 2019-04-22 13:15:28 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:28 ] ###############################################################
+[ 2019-04-22 13:15:28 ] Original Href  = https://web.archive.org/web/20180331031825/https://github.com/riefachan/jekyll-materialize - [( 8/9 )]
+[ 2019-04-22 13:15:28 ] href = https://web.archive.org/web/20180331031825/https://github.com/riefachan/jekyll-materialize ( is_internal_url = No )
+[ 2019-04-22 13:15:28 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:15:28 ] Removed external links total ( 0 / 3 )
+[ 2019-04-22 13:15:28 ] local_file_path not created yet = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/blog_subdomain/index.html
+[ 2019-04-22 13:15:28 ] code = 200
+[ 2019-04-22 13:15:28 ] 
+[ 2019-04-22 13:15:28 ] 
+[ 2019-04-22 13:15:28 ] /**************************************************************/
+[ 2019-04-22 13:15:28 ] /*******		Extract 'css_from_import' files		**********/
+[ 2019-04-22 13:15:28 ] /*******		From    'blog_subdomain/index.html'      **********/
+[ 2019-04-22 13:15:28 ] /**************************************************************/
+[ 2019-04-22 13:15:28 ] There is no file with type 'css_from_import'
+[ 2019-04-22 13:15:28 ] /*******		End : Extract 'css_from_import' files		**********/
+[ 2019-04-22 13:15:28 ] /*******		      From    'blog_subdomain/index.html'      **********/
+[ 2019-04-22 13:15:28 ] 
+[ 2019-04-22 13:15:28 ] 
+[ 2019-04-22 13:15:28 ] 
+[ 2019-04-22 13:15:28 ] /**************************************************************/
+[ 2019-04-22 13:15:28 ] /*******		Extract 'fonts_from_html' files		**********/
+[ 2019-04-22 13:15:28 ] /*******		From    'blog_subdomain/index.html'      **********/
+[ 2019-04-22 13:15:28 ] /**************************************************************/
+[ 2019-04-22 13:15:28 ] There is no file with type 'fonts_from_html'
+[ 2019-04-22 13:15:28 ] /*******		End : Extract 'fonts_from_html' files		**********/
+[ 2019-04-22 13:15:28 ] /*******		      From    'blog_subdomain/index.html'      **********/
+[ 2019-04-22 13:15:28 ] 
+[ 2019-04-22 13:15:28 ] 
+[ 2019-04-22 13:15:28 ] 
+[ 2019-04-22 13:15:28 ] /**************************************************************/
+[ 2019-04-22 13:15:28 ] /*******		Extract 'css' files		**********/
+[ 2019-04-22 13:15:28 ] /*******		From    'blog_subdomain/index.html'      **********/
+[ 2019-04-22 13:15:28 ] /**************************************************************/
+[ 2019-04-22 13:15:28 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:15:28 ] update_html_file_path = 
+[ 2019-04-22 13:15:28 ] folder_path = 
+[ 2019-04-22 13:15:28 ] file_url_from_html_never_changed = /web/20180331031825cs_/https://blog.moderntld.com/assets/css/Material-icons.css
+[ 2019-04-22 13:15:28 ] file url = https://web.archive.org/web/20180331031825cs_/https://blog.moderntld.com/assets/css/Material-icons.css
+[ 2019-04-22 13:15:28 ] >>>>>>>>> START >
+[ 2019-04-22 13:15:28 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:15:28 ] URL = https://web.archive.org/web/20180331031825cs_/https:/blog.moderntld.com/assets/css/Material-icons.css
+[ 2019-04-22 13:15:28 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:15:28 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:15:28 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:15:30 ] code = 200
+[ 2019-04-22 13:15:30 ] Final URL = https://web.archive.org/web/20180617105552cs_/https://blog.moderntld.com/assets/css/Material-icons.css ( Final code = 200 )
+[ 2019-04-22 13:15:30 ] >>>>>>>>> END >
+[ 2019-04-22 13:15:30 ] 
+[ 2019-04-22 13:15:30 ] 
+[ 2019-04-22 13:15:30 ] /**************************************************************/
+[ 2019-04-22 13:15:30 ] /*******		Extract 'css_from_import' files		**********/
+[ 2019-04-22 13:15:30 ] /*******		From    'assets/css/blog_subdomain/Material-icons.css'      **********/
+[ 2019-04-22 13:15:30 ] /**************************************************************/
+[ 2019-04-22 13:15:30 ] There is no file with type 'css_from_import'
+[ 2019-04-22 13:15:30 ] /*******		End : Extract 'css_from_import' files		**********/
+[ 2019-04-22 13:15:30 ] /*******		      From    'assets/css/blog_subdomain/Material-icons.css'      **********/
+[ 2019-04-22 13:15:30 ] 
+[ 2019-04-22 13:15:30 ] 
+[ 2019-04-22 13:15:30 ] 
+[ 2019-04-22 13:15:30 ] /**************************************************************/
+[ 2019-04-22 13:15:30 ] /*******		Extract 'fonts_from_css' files		**********/
+[ 2019-04-22 13:15:30 ] /*******		From    'assets/css/blog_subdomain/Material-icons.css'      **********/
+[ 2019-04-22 13:15:30 ] /**************************************************************/
+[ 2019-04-22 13:15:30 ] There is no file with type 'fonts_from_css'
+[ 2019-04-22 13:15:30 ] /*******		End : Extract 'fonts_from_css' files		**********/
+[ 2019-04-22 13:15:30 ] /*******		      From    'assets/css/blog_subdomain/Material-icons.css'      **********/
+[ 2019-04-22 13:15:30 ] 
+[ 2019-04-22 13:15:30 ] 
+[ 2019-04-22 13:15:30 ] 
+[ 2019-04-22 13:15:30 ] /**************************************************************/
+[ 2019-04-22 13:15:30 ] /*******		Extract 'background_images' files		**********/
+[ 2019-04-22 13:15:30 ] /*******		From    'assets/css/blog_subdomain/Material-icons.css'      **********/
+[ 2019-04-22 13:15:30 ] /**************************************************************/
+[ 2019-04-22 13:16:32 ] There is no file with type 'background_images'
+[ 2019-04-22 13:16:32 ] /*******		End : Extract 'background_images' files		**********/
+[ 2019-04-22 13:16:32 ] /*******		      From    'assets/css/blog_subdomain/Material-icons.css'      **********/
+[ 2019-04-22 13:16:32 ] 
+[ 2019-04-22 13:16:32 ] remove_web() function
+[ 2019-04-22 13:16:32 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/Material-icons.css --> File Created !!!
+[ 2019-04-22 13:16:32 ] set_files_count_xml() function
+[ 2019-04-22 13:16:32 ] increment +1
+[ 2019-04-22 13:16:32 ] key = 'css' |  value = '3'
+[ 2019-04-22 13:16:32 ] ----------------------------------------------------------
+[ 2019-04-22 13:16:32 ] blog_subdomain/index.html : REPLACE '/web/20180331031825cs_/https://blog.moderntld.com/assets/css/Material-icons.css' WITH '../../assets/css/blog_subdomain/Material-icons.css'
+[ 2019-04-22 13:16:32 ] update_html_file_path = 
+[ 2019-04-22 13:16:32 ] folder_path = 
+[ 2019-04-22 13:16:32 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:32 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:32 ] update_html_file_path = 
+[ 2019-04-22 13:16:32 ] folder_path = 
+[ 2019-04-22 13:16:32 ] file_url_from_html_never_changed = /web/20180331031825cs_/https://blog.moderntld.com/assets/css/app.css
+[ 2019-04-22 13:16:32 ] file url = https://web.archive.org/web/20180331031825cs_/https://blog.moderntld.com/assets/css/app.css
+[ 2019-04-22 13:16:32 ] >>>>>>>>> START >
+[ 2019-04-22 13:16:32 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:16:32 ] URL = https://web.archive.org/web/20180331031825cs_/https:/blog.moderntld.com/assets/css/app.css
+[ 2019-04-22 13:16:32 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:16:32 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:16:32 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:16:34 ] code = 200
+[ 2019-04-22 13:16:34 ] Final URL = https://web.archive.org/web/20180618065845cs_/https://blog.moderntld.com/assets/css/app.css ( Final code = 200 )
+[ 2019-04-22 13:16:34 ] >>>>>>>>> END >
+[ 2019-04-22 13:16:34 ] 
+[ 2019-04-22 13:16:34 ] 
+[ 2019-04-22 13:16:34 ] /**************************************************************/
+[ 2019-04-22 13:16:34 ] /*******		Extract 'css_from_import' files		**********/
+[ 2019-04-22 13:16:34 ] /*******		From    'assets/css/blog_subdomain/app.css'      **********/
+[ 2019-04-22 13:16:34 ] /**************************************************************/
+[ 2019-04-22 13:16:34 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:34 ] update_html_file_path = 
+[ 2019-04-22 13:16:34 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:34 ] file_url_from_html_never_changed = export:before{content:
+[ 2019-04-22 13:16:34 ] file url = https://web.archive.org/web/20180331031825cs_/https://blog.moderntld.com/assets/css/app.css/export:before{content:
+[ 2019-04-22 13:16:34 ] >>>>>>>>> START >
+[ 2019-04-22 13:16:34 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:16:34 ] URL = https://web.archive.org/web/20180331031825cs_/https:/blog.moderntld.com/assets/css/app.css/export:before{content:
+[ 2019-04-22 13:16:34 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:16:34 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:16:34 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:16:35 ] code = 404
+[ 2019-04-22 13:16:35 ]     No sleep!
+[ 2019-04-22 13:16:35 ] ---------------------------------------------------------------
+[ 2019-04-22 13:16:35 ] Test Num = 2
+[ 2019-04-22 13:16:35 ] \\\\
+[ 2019-04-22 13:16:35 ] get_curl() function launching ...
+[ 2019-04-22 13:16:35 ] URL = https://archive.org/wayback/available?url=https:/blog.moderntld.com%2Fassets%2Fcss%2Fapp.css%2Fexport%3Abefore%7Bcontent%3A&timestamp=20180331031825cs_ ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:16:35 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:16:35 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.13+ (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2
+[ 2019-04-22 13:16:35 ] Final Code = 200
+[ 2019-04-22 13:16:35 ] Final HTML found = Yes
+[ 2019-04-22 13:16:35 ] ////
+[ 2019-04-22 13:16:35 ] This archive URL is not found https://web.archive.org/web/20180331031825cs_/https:/blog.moderntld.com%2Fassets%2Fcss%2Fapp.css%2Fexport%3Abefore%7Bcontent%3A
+[ 2019-04-22 13:16:35 ] Archive API say that this url don't exist =  ( Final code = 404 )
+[ 2019-04-22 13:16:35 ] >>>>>>>>> END >
+[ 2019-04-22 13:16:35 ] This is a broken image :export:before{content:
+[ 2019-04-22 13:16:35 ] remove_web() function
+[ 2019-04-22 13:16:35 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:35 ] /*******		End : Extract 'css_from_import' files		**********/
+[ 2019-04-22 13:16:35 ] /*******		      From    'assets/css/blog_subdomain/app.css'      **********/
+[ 2019-04-22 13:16:35 ] 
+[ 2019-04-22 13:16:35 ] 
+[ 2019-04-22 13:16:35 ] 
+[ 2019-04-22 13:16:35 ] /**************************************************************/
+[ 2019-04-22 13:16:35 ] /*******		Extract 'fonts_from_css' files		**********/
+[ 2019-04-22 13:16:35 ] /*******		From    'assets/css/blog_subdomain/app.css'      **********/
+[ 2019-04-22 13:16:35 ] /**************************************************************/
+[ 2019-04-22 13:16:35 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:35 ] update_html_file_path = 
+[ 2019-04-22 13:16:35 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:35 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.eot#iefix
+[ 2019-04-22 13:16:35 ] file url = https://web.archive.org/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.eot#iefix
+[ 2019-04-22 13:16:35 ] >>>>>>>>> START >
+[ 2019-04-22 13:16:35 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:16:35 ] URL = https://web.archive.org/web/20180618065845im_/https:/blog.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.eot#iefix
+[ 2019-04-22 13:16:35 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:16:35 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:16:35 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:16:36 ] code = 200
+[ 2019-04-22 13:16:36 ] Final URL = https://web.archive.org/web/20180722210546im_/https://blog.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.eot ( Final code = 200 )
+[ 2019-04-22 13:16:36 ] >>>>>>>>> END >
+[ 2019-04-22 13:16:36 ] remove_web() function
+[ 2019-04-22 13:16:36 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/material-design-icons/blog_subdomain/Material-Design-Icons.eot --> File Created !!!
+[ 2019-04-22 13:16:36 ] set_files_count_xml() function
+[ 2019-04-22 13:16:36 ] increment +1
+[ 2019-04-22 13:16:36 ] key = 'fonts' |  value = '5'
+[ 2019-04-22 13:16:36 ] ----------------------------------------------------------
+[ 2019-04-22 13:16:36 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.eot#iefix' WITH 'assets/fonts/material-design-icons/blog_subdomain/Material-Design-Icons.eot'
+[ 2019-04-22 13:16:36 ] update_html_file_path = 
+[ 2019-04-22 13:16:36 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:36 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:36 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:36 ] update_html_file_path = 
+[ 2019-04-22 13:16:36 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:36 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.woff2
+[ 2019-04-22 13:16:36 ] file url = https://web.archive.org/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.woff2
+[ 2019-04-22 13:16:36 ] >>>>>>>>> START >
+[ 2019-04-22 13:16:36 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:16:36 ] URL = https://web.archive.org/web/20180618065845im_/https:/blog.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.woff2
+[ 2019-04-22 13:16:36 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:16:36 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:16:36 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:16:37 ] code = 200
+[ 2019-04-22 13:16:37 ] Final URL = https://web.archive.org/web/20180722144042im_/https://blog.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.woff2 ( Final code = 200 )
+[ 2019-04-22 13:16:37 ] >>>>>>>>> END >
+[ 2019-04-22 13:16:37 ] remove_web() function
+[ 2019-04-22 13:16:37 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/material-design-icons/blog_subdomain/Material-Design-Icons.woff --> File Created !!!
+[ 2019-04-22 13:16:37 ] set_files_count_xml() function
+[ 2019-04-22 13:16:37 ] increment +1
+[ 2019-04-22 13:16:37 ] key = 'fonts' |  value = '6'
+[ 2019-04-22 13:16:37 ] ----------------------------------------------------------
+[ 2019-04-22 13:16:37 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.woff2' WITH 'assets/fonts/material-design-icons/blog_subdomain/Material-Design-Icons.woff'
+[ 2019-04-22 13:16:37 ] update_html_file_path = 
+[ 2019-04-22 13:16:37 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:37 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:37 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:37 ] update_html_file_path = 
+[ 2019-04-22 13:16:37 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:37 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.woff
+[ 2019-04-22 13:16:37 ]  --> file already exist 2 -> files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/material-design-icons/blog_subdomain/Material-Design-Icons.woff
+[ 2019-04-22 13:16:37 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.woff' WITH 'assets/fonts/material-design-icons/blog_subdomain/Material-Design-Icons.woff'
+[ 2019-04-22 13:16:37 ] update_html_file_path = 
+[ 2019-04-22 13:16:37 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:37 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:37 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:37 ] update_html_file_path = 
+[ 2019-04-22 13:16:37 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:37 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.ttf
+[ 2019-04-22 13:16:37 ] file url = https://web.archive.org/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.ttf
+[ 2019-04-22 13:16:37 ] >>>>>>>>> START >
+[ 2019-04-22 13:16:37 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:16:37 ] URL = https://web.archive.org/web/20180618065845im_/https:/blog.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.ttf
+[ 2019-04-22 13:16:37 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:16:37 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:16:37 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:16:38 ] code = 200
+[ 2019-04-22 13:16:38 ] Final URL = https://web.archive.org/web/20180722193635im_/https://blog.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.ttf ( Final code = 200 )
+[ 2019-04-22 13:16:38 ] >>>>>>>>> END >
+[ 2019-04-22 13:16:38 ] remove_web() function
+[ 2019-04-22 13:16:38 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/material-design-icons/blog_subdomain/Material-Design-Icons.ttf --> File Created !!!
+[ 2019-04-22 13:16:38 ] set_files_count_xml() function
+[ 2019-04-22 13:16:38 ] increment +1
+[ 2019-04-22 13:16:38 ] key = 'fonts' |  value = '7'
+[ 2019-04-22 13:16:38 ] ----------------------------------------------------------
+[ 2019-04-22 13:16:38 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.ttf' WITH 'assets/fonts/material-design-icons/blog_subdomain/Material-Design-Icons.ttf'
+[ 2019-04-22 13:16:38 ] update_html_file_path = 
+[ 2019-04-22 13:16:38 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:38 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:38 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:38 ] update_html_file_path = 
+[ 2019-04-22 13:16:38 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:38 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.svg#Material-Design-Icons
+[ 2019-04-22 13:16:38 ] file url = https://web.archive.org/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.svg#Material-Design-Icons
+[ 2019-04-22 13:16:38 ] >>>>>>>>> START >
+[ 2019-04-22 13:16:38 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:16:38 ] URL = https://web.archive.org/web/20180618065845im_/https:/blog.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.svg#Material-Design-Icons
+[ 2019-04-22 13:16:38 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:16:38 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:16:38 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:16:40 ] code = 200
+[ 2019-04-22 13:16:40 ] Final URL = https://web.archive.org/web/20180722174818im_/https://blog.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.svg ( Final code = 200 )
+[ 2019-04-22 13:16:40 ] >>>>>>>>> END >
+[ 2019-04-22 13:16:40 ] remove_web() function
+[ 2019-04-22 13:16:41 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/material-design-icons/blog_subdomain/Material-Design-Icons.svg --> File Created !!!
+[ 2019-04-22 13:16:41 ] set_files_count_xml() function
+[ 2019-04-22 13:16:41 ] increment +1
+[ 2019-04-22 13:16:41 ] key = 'fonts' |  value = '8'
+[ 2019-04-22 13:16:41 ] ----------------------------------------------------------
+[ 2019-04-22 13:16:41 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/material-design-icons/Material-Design-Icons.svg#Material-Design-Icons' WITH 'assets/fonts/material-design-icons/blog_subdomain/Material-Design-Icons.svg'
+[ 2019-04-22 13:16:41 ] update_html_file_path = 
+[ 2019-04-22 13:16:41 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:41 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:41 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:41 ] update_html_file_path = 
+[ 2019-04-22 13:16:41 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:41 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Thin.woff2
+[ 2019-04-22 13:16:41 ] file url = https://web.archive.org/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Thin.woff2
+[ 2019-04-22 13:16:41 ] >>>>>>>>> START >
+[ 2019-04-22 13:16:41 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:16:41 ] URL = https://web.archive.org/web/20180618065845im_/https:/blog.moderntld.com/assets/fonts/roboto/Roboto-Thin.woff2
+[ 2019-04-22 13:16:41 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:16:41 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:16:41 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:16:42 ] code = 200
+[ 2019-04-22 13:16:42 ] Final URL = https://web.archive.org/web/20180722183756im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Thin.woff2 ( Final code = 200 )
+[ 2019-04-22 13:16:42 ] >>>>>>>>> END >
+[ 2019-04-22 13:16:42 ] remove_web() function
+[ 2019-04-22 13:16:42 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/roboto/blog_subdomain/Roboto-Thin.woff --> File Created !!!
+[ 2019-04-22 13:16:42 ] set_files_count_xml() function
+[ 2019-04-22 13:16:42 ] increment +1
+[ 2019-04-22 13:16:42 ] key = 'fonts' |  value = '9'
+[ 2019-04-22 13:16:42 ] ----------------------------------------------------------
+[ 2019-04-22 13:16:42 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Thin.woff2' WITH 'assets/fonts/roboto/blog_subdomain/Roboto-Thin.woff'
+[ 2019-04-22 13:16:42 ] update_html_file_path = 
+[ 2019-04-22 13:16:42 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:42 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:42 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:42 ] update_html_file_path = 
+[ 2019-04-22 13:16:42 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:42 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Thin.woff
+[ 2019-04-22 13:16:42 ]  --> file already exist 2 -> files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/roboto/blog_subdomain/Roboto-Thin.woff
+[ 2019-04-22 13:16:42 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Thin.woff' WITH 'assets/fonts/roboto/blog_subdomain/Roboto-Thin.woff'
+[ 2019-04-22 13:16:42 ] update_html_file_path = 
+[ 2019-04-22 13:16:42 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:42 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:42 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:42 ] update_html_file_path = 
+[ 2019-04-22 13:16:42 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:42 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Thin.ttf
+[ 2019-04-22 13:16:42 ] file url = https://web.archive.org/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Thin.ttf
+[ 2019-04-22 13:16:42 ] >>>>>>>>> START >
+[ 2019-04-22 13:16:42 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:16:42 ] URL = https://web.archive.org/web/20180618065845im_/https:/blog.moderntld.com/assets/fonts/roboto/Roboto-Thin.ttf
+[ 2019-04-22 13:16:42 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:16:42 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:16:42 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:16:43 ] code = 200
+[ 2019-04-22 13:16:43 ] Final URL = https://web.archive.org/web/20180722204619im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Thin.ttf ( Final code = 200 )
+[ 2019-04-22 13:16:43 ] >>>>>>>>> END >
+[ 2019-04-22 13:16:43 ] remove_web() function
+[ 2019-04-22 13:16:43 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/roboto/blog_subdomain/Roboto-Thin.ttf --> File Created !!!
+[ 2019-04-22 13:16:43 ] set_files_count_xml() function
+[ 2019-04-22 13:16:43 ] increment +1
+[ 2019-04-22 13:16:43 ] key = 'fonts' |  value = '10'
+[ 2019-04-22 13:16:43 ] ----------------------------------------------------------
+[ 2019-04-22 13:16:43 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Thin.ttf' WITH 'assets/fonts/roboto/blog_subdomain/Roboto-Thin.ttf'
+[ 2019-04-22 13:16:43 ] update_html_file_path = 
+[ 2019-04-22 13:16:43 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:43 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:43 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:43 ] update_html_file_path = 
+[ 2019-04-22 13:16:43 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:43 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Light.woff2
+[ 2019-04-22 13:16:43 ] file url = https://web.archive.org/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Light.woff2
+[ 2019-04-22 13:16:43 ] >>>>>>>>> START >
+[ 2019-04-22 13:16:43 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:16:43 ] URL = https://web.archive.org/web/20180618065845im_/https:/blog.moderntld.com/assets/fonts/roboto/Roboto-Light.woff2
+[ 2019-04-22 13:16:43 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:16:43 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:16:43 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:16:45 ] code = 200
+[ 2019-04-22 13:16:45 ] Final URL = https://web.archive.org/web/20180722150847im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Light.woff2 ( Final code = 200 )
+[ 2019-04-22 13:16:45 ] >>>>>>>>> END >
+[ 2019-04-22 13:16:45 ] remove_web() function
+[ 2019-04-22 13:16:45 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/roboto/blog_subdomain/Roboto-Light.woff --> File Created !!!
+[ 2019-04-22 13:16:45 ] set_files_count_xml() function
+[ 2019-04-22 13:16:45 ] increment +1
+[ 2019-04-22 13:16:45 ] key = 'fonts' |  value = '11'
+[ 2019-04-22 13:16:45 ] ----------------------------------------------------------
+[ 2019-04-22 13:16:45 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Light.woff2' WITH 'assets/fonts/roboto/blog_subdomain/Roboto-Light.woff'
+[ 2019-04-22 13:16:45 ] update_html_file_path = 
+[ 2019-04-22 13:16:45 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:45 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:45 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:45 ] update_html_file_path = 
+[ 2019-04-22 13:16:45 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:45 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Light.woff
+[ 2019-04-22 13:16:45 ]  --> file already exist 2 -> files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/roboto/blog_subdomain/Roboto-Light.woff
+[ 2019-04-22 13:16:45 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Light.woff' WITH 'assets/fonts/roboto/blog_subdomain/Roboto-Light.woff'
+[ 2019-04-22 13:16:45 ] update_html_file_path = 
+[ 2019-04-22 13:16:45 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:45 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:45 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:45 ] update_html_file_path = 
+[ 2019-04-22 13:16:45 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:45 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Light.ttf
+[ 2019-04-22 13:16:45 ] file url = https://web.archive.org/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Light.ttf
+[ 2019-04-22 13:16:45 ] >>>>>>>>> START >
+[ 2019-04-22 13:16:45 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:16:45 ] URL = https://web.archive.org/web/20180618065845im_/https:/blog.moderntld.com/assets/fonts/roboto/Roboto-Light.ttf
+[ 2019-04-22 13:16:45 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:16:45 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:16:45 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:16:47 ] code = 200
+[ 2019-04-22 13:16:47 ] Final URL = https://web.archive.org/web/20180722175707im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Light.ttf ( Final code = 200 )
+[ 2019-04-22 13:16:47 ] >>>>>>>>> END >
+[ 2019-04-22 13:16:47 ] remove_web() function
+[ 2019-04-22 13:16:47 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/roboto/blog_subdomain/Roboto-Light.ttf --> File Created !!!
+[ 2019-04-22 13:16:47 ] set_files_count_xml() function
+[ 2019-04-22 13:16:47 ] increment +1
+[ 2019-04-22 13:16:47 ] key = 'fonts' |  value = '12'
+[ 2019-04-22 13:16:47 ] ----------------------------------------------------------
+[ 2019-04-22 13:16:47 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Light.ttf' WITH 'assets/fonts/roboto/blog_subdomain/Roboto-Light.ttf'
+[ 2019-04-22 13:16:47 ] update_html_file_path = 
+[ 2019-04-22 13:16:47 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:47 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:47 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:47 ] update_html_file_path = 
+[ 2019-04-22 13:16:47 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:47 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Regular.woff2
+[ 2019-04-22 13:16:47 ] file url = https://web.archive.org/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Regular.woff2
+[ 2019-04-22 13:16:47 ] >>>>>>>>> START >
+[ 2019-04-22 13:16:47 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:16:47 ] URL = https://web.archive.org/web/20180618065845im_/https:/blog.moderntld.com/assets/fonts/roboto/Roboto-Regular.woff2
+[ 2019-04-22 13:16:47 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:16:47 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:16:47 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:16:48 ] code = 200
+[ 2019-04-22 13:16:48 ] Final URL = https://web.archive.org/web/20180722193505im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Regular.woff2 ( Final code = 200 )
+[ 2019-04-22 13:16:48 ] >>>>>>>>> END >
+[ 2019-04-22 13:16:48 ] remove_web() function
+[ 2019-04-22 13:16:48 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/roboto/blog_subdomain/Roboto-Regular.woff --> File Created !!!
+[ 2019-04-22 13:16:48 ] set_files_count_xml() function
+[ 2019-04-22 13:16:48 ] increment +1
+[ 2019-04-22 13:16:48 ] key = 'fonts' |  value = '13'
+[ 2019-04-22 13:16:48 ] ----------------------------------------------------------
+[ 2019-04-22 13:16:48 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Regular.woff2' WITH 'assets/fonts/roboto/blog_subdomain/Roboto-Regular.woff'
+[ 2019-04-22 13:16:48 ] update_html_file_path = 
+[ 2019-04-22 13:16:48 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:48 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:48 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:48 ] update_html_file_path = 
+[ 2019-04-22 13:16:48 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:48 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Regular.woff
+[ 2019-04-22 13:16:48 ]  --> file already exist 2 -> files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/roboto/blog_subdomain/Roboto-Regular.woff
+[ 2019-04-22 13:16:48 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Regular.woff' WITH 'assets/fonts/roboto/blog_subdomain/Roboto-Regular.woff'
+[ 2019-04-22 13:16:48 ] update_html_file_path = 
+[ 2019-04-22 13:16:48 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:48 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:48 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:48 ] update_html_file_path = 
+[ 2019-04-22 13:16:48 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:48 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Regular.ttf
+[ 2019-04-22 13:16:48 ] file url = https://web.archive.org/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Regular.ttf
+[ 2019-04-22 13:16:48 ] >>>>>>>>> START >
+[ 2019-04-22 13:16:48 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:16:48 ] URL = https://web.archive.org/web/20180618065845im_/https:/blog.moderntld.com/assets/fonts/roboto/Roboto-Regular.ttf
+[ 2019-04-22 13:16:48 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:16:48 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:16:48 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:16:49 ] code = 200
+[ 2019-04-22 13:16:49 ] Final URL = https://web.archive.org/web/20180722172954im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Regular.ttf ( Final code = 200 )
+[ 2019-04-22 13:16:49 ] >>>>>>>>> END >
+[ 2019-04-22 13:16:49 ] remove_web() function
+[ 2019-04-22 13:16:49 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/roboto/blog_subdomain/Roboto-Regular.ttf --> File Created !!!
+[ 2019-04-22 13:16:49 ] set_files_count_xml() function
+[ 2019-04-22 13:16:49 ] increment +1
+[ 2019-04-22 13:16:49 ] key = 'fonts' |  value = '14'
+[ 2019-04-22 13:16:49 ] ----------------------------------------------------------
+[ 2019-04-22 13:16:49 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Regular.ttf' WITH 'assets/fonts/roboto/blog_subdomain/Roboto-Regular.ttf'
+[ 2019-04-22 13:16:49 ] update_html_file_path = 
+[ 2019-04-22 13:16:49 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:49 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:49 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:49 ] update_html_file_path = 
+[ 2019-04-22 13:16:49 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:49 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Medium.woff2
+[ 2019-04-22 13:16:49 ] file url = https://web.archive.org/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Medium.woff2
+[ 2019-04-22 13:16:49 ] >>>>>>>>> START >
+[ 2019-04-22 13:16:49 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:16:49 ] URL = https://web.archive.org/web/20180618065845im_/https:/blog.moderntld.com/assets/fonts/roboto/Roboto-Medium.woff2
+[ 2019-04-22 13:16:49 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:16:49 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:16:49 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:16:51 ] code = 200
+[ 2019-04-22 13:16:51 ] Final URL = https://web.archive.org/web/20180722223647im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Medium.woff2 ( Final code = 200 )
+[ 2019-04-22 13:16:51 ] >>>>>>>>> END >
+[ 2019-04-22 13:16:51 ] remove_web() function
+[ 2019-04-22 13:16:51 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/roboto/blog_subdomain/Roboto-Medium.woff --> File Created !!!
+[ 2019-04-22 13:16:51 ] set_files_count_xml() function
+[ 2019-04-22 13:16:51 ] increment +1
+[ 2019-04-22 13:16:51 ] key = 'fonts' |  value = '15'
+[ 2019-04-22 13:16:51 ] ----------------------------------------------------------
+[ 2019-04-22 13:16:51 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Medium.woff2' WITH 'assets/fonts/roboto/blog_subdomain/Roboto-Medium.woff'
+[ 2019-04-22 13:16:51 ] update_html_file_path = 
+[ 2019-04-22 13:16:51 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:51 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:51 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:51 ] update_html_file_path = 
+[ 2019-04-22 13:16:51 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:51 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Medium.woff
+[ 2019-04-22 13:16:51 ]  --> file already exist 2 -> files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/roboto/blog_subdomain/Roboto-Medium.woff
+[ 2019-04-22 13:16:51 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Medium.woff' WITH 'assets/fonts/roboto/blog_subdomain/Roboto-Medium.woff'
+[ 2019-04-22 13:16:51 ] update_html_file_path = 
+[ 2019-04-22 13:16:51 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:51 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:51 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:51 ] update_html_file_path = 
+[ 2019-04-22 13:16:51 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:51 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Medium.ttf
+[ 2019-04-22 13:16:51 ] file url = https://web.archive.org/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Medium.ttf
+[ 2019-04-22 13:16:51 ] >>>>>>>>> START >
+[ 2019-04-22 13:16:51 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:16:51 ] URL = https://web.archive.org/web/20180618065845im_/https:/blog.moderntld.com/assets/fonts/roboto/Roboto-Medium.ttf
+[ 2019-04-22 13:16:51 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:16:51 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:16:51 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:16:53 ] code = 200
+[ 2019-04-22 13:16:53 ] Final URL = https://web.archive.org/web/20180722204357im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Medium.ttf ( Final code = 200 )
+[ 2019-04-22 13:16:53 ] >>>>>>>>> END >
+[ 2019-04-22 13:16:53 ] remove_web() function
+[ 2019-04-22 13:16:53 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/roboto/blog_subdomain/Roboto-Medium.ttf --> File Created !!!
+[ 2019-04-22 13:16:53 ] set_files_count_xml() function
+[ 2019-04-22 13:16:53 ] increment +1
+[ 2019-04-22 13:16:53 ] key = 'fonts' |  value = '16'
+[ 2019-04-22 13:16:53 ] ----------------------------------------------------------
+[ 2019-04-22 13:16:53 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Medium.ttf' WITH 'assets/fonts/roboto/blog_subdomain/Roboto-Medium.ttf'
+[ 2019-04-22 13:16:53 ] update_html_file_path = 
+[ 2019-04-22 13:16:53 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:53 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:53 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:53 ] update_html_file_path = 
+[ 2019-04-22 13:16:53 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:53 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Bold.woff2
+[ 2019-04-22 13:16:53 ] file url = https://web.archive.org/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Bold.woff2
+[ 2019-04-22 13:16:53 ] >>>>>>>>> START >
+[ 2019-04-22 13:16:53 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:16:53 ] URL = https://web.archive.org/web/20180618065845im_/https:/blog.moderntld.com/assets/fonts/roboto/Roboto-Bold.woff2
+[ 2019-04-22 13:16:53 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:16:53 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:16:53 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:16:54 ] code = 200
+[ 2019-04-22 13:16:54 ] Final URL = https://web.archive.org/web/20180722190042im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Bold.woff2 ( Final code = 200 )
+[ 2019-04-22 13:16:54 ] >>>>>>>>> END >
+[ 2019-04-22 13:16:54 ] remove_web() function
+[ 2019-04-22 13:16:54 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/roboto/blog_subdomain/Roboto-Bold.woff --> File Created !!!
+[ 2019-04-22 13:16:54 ] set_files_count_xml() function
+[ 2019-04-22 13:16:54 ] increment +1
+[ 2019-04-22 13:16:54 ] key = 'fonts' |  value = '17'
+[ 2019-04-22 13:16:54 ] ----------------------------------------------------------
+[ 2019-04-22 13:16:54 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Bold.woff2' WITH 'assets/fonts/roboto/blog_subdomain/Roboto-Bold.woff'
+[ 2019-04-22 13:16:54 ] update_html_file_path = 
+[ 2019-04-22 13:16:54 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:54 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:54 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:54 ] update_html_file_path = 
+[ 2019-04-22 13:16:54 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:54 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Bold.woff
+[ 2019-04-22 13:16:54 ]  --> file already exist 2 -> files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/roboto/blog_subdomain/Roboto-Bold.woff
+[ 2019-04-22 13:16:54 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Bold.woff' WITH 'assets/fonts/roboto/blog_subdomain/Roboto-Bold.woff'
+[ 2019-04-22 13:16:54 ] update_html_file_path = 
+[ 2019-04-22 13:16:54 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:54 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:54 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:54 ] update_html_file_path = 
+[ 2019-04-22 13:16:54 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:54 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Bold.ttf
+[ 2019-04-22 13:16:54 ] file url = https://web.archive.org/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Bold.ttf
+[ 2019-04-22 13:16:54 ] >>>>>>>>> START >
+[ 2019-04-22 13:16:54 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:16:54 ] URL = https://web.archive.org/web/20180618065845im_/https:/blog.moderntld.com/assets/fonts/roboto/Roboto-Bold.ttf
+[ 2019-04-22 13:16:54 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:16:54 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:16:54 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:16:55 ] code = 200
+[ 2019-04-22 13:16:55 ] Final URL = https://web.archive.org/web/20180722212133im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Bold.ttf ( Final code = 200 )
+[ 2019-04-22 13:16:55 ] >>>>>>>>> END >
+[ 2019-04-22 13:16:55 ] remove_web() function
+[ 2019-04-22 13:16:55 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/roboto/blog_subdomain/Roboto-Bold.ttf --> File Created !!!
+[ 2019-04-22 13:16:55 ] set_files_count_xml() function
+[ 2019-04-22 13:16:55 ] increment +1
+[ 2019-04-22 13:16:55 ] key = 'fonts' |  value = '18'
+[ 2019-04-22 13:16:55 ] ----------------------------------------------------------
+[ 2019-04-22 13:16:55 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/roboto/Roboto-Bold.ttf' WITH 'assets/fonts/roboto/blog_subdomain/Roboto-Bold.ttf'
+[ 2019-04-22 13:16:55 ] update_html_file_path = 
+[ 2019-04-22 13:16:55 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:55 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:55 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:55 ] update_html_file_path = 
+[ 2019-04-22 13:16:55 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:55 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/fontawesome//fontawesome-webfont.eot?v=4.4.0
+[ 2019-04-22 13:16:55 ] file url = https://web.archive.org/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/fontawesome//fontawesome-webfont.eot?v=4.4.0
+[ 2019-04-22 13:16:55 ] >>>>>>>>> START >
+[ 2019-04-22 13:16:55 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:16:55 ] URL = https://web.archive.org/web/20180618065845im_/https:/blog.moderntld.com/assets/fonts/fontawesome/fontawesome-webfont.eot?v=4.4.0
+[ 2019-04-22 13:16:55 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:16:55 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:16:55 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:16:56 ] code = 200
+[ 2019-04-22 13:16:56 ] Final URL = https://web.archive.org/web/20180722195108im_/https://blog.moderntld.com/assets/fonts/fontawesome//fontawesome-webfont.eot?v=4.4.0 ( Final code = 200 )
+[ 2019-04-22 13:16:56 ] >>>>>>>>> END >
+[ 2019-04-22 13:16:56 ] remove_web() function
+[ 2019-04-22 13:16:56 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/fontawesome/blog_subdomain/fontawesome-webfont.eot --> File Created !!!
+[ 2019-04-22 13:16:56 ] set_files_count_xml() function
+[ 2019-04-22 13:16:56 ] increment +1
+[ 2019-04-22 13:16:56 ] key = 'fonts' |  value = '19'
+[ 2019-04-22 13:16:56 ] ----------------------------------------------------------
+[ 2019-04-22 13:16:56 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/fontawesome//fontawesome-webfont.eot?v=4.4.0' WITH 'assets/fonts/fontawesome/blog_subdomain/fontawesome-webfont.eot'
+[ 2019-04-22 13:16:56 ] update_html_file_path = 
+[ 2019-04-22 13:16:56 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:56 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:56 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:56 ] update_html_file_path = 
+[ 2019-04-22 13:16:56 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:56 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/fontawesome//fontawesome-webfont.eot#iefix&v=4.4.0
+[ 2019-04-22 13:16:56 ]  --> file already exist 2 -> files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/fontawesome/blog_subdomain/fontawesome-webfont.eot
+[ 2019-04-22 13:16:56 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/fontawesome//fontawesome-webfont.eot#iefix&v=4.4.0' WITH 'assets/fonts/fontawesome/blog_subdomain/fontawesome-webfont.eot'
+[ 2019-04-22 13:16:56 ] update_html_file_path = 
+[ 2019-04-22 13:16:56 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:56 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:56 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:56 ] update_html_file_path = 
+[ 2019-04-22 13:16:56 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:56 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/fontawesome//fontawesome-webfont.woff2?v=4.4.0
+[ 2019-04-22 13:16:56 ] file url = https://web.archive.org/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/fontawesome//fontawesome-webfont.woff2?v=4.4.0
+[ 2019-04-22 13:16:56 ] >>>>>>>>> START >
+[ 2019-04-22 13:16:56 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:16:56 ] URL = https://web.archive.org/web/20180618065845im_/https:/blog.moderntld.com/assets/fonts/fontawesome/fontawesome-webfont.woff2?v=4.4.0
+[ 2019-04-22 13:16:56 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:16:56 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:16:56 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:16:57 ] code = 200
+[ 2019-04-22 13:16:57 ] Final URL = https://web.archive.org/web/20180722211714im_/https://blog.moderntld.com/assets/fonts/fontawesome//fontawesome-webfont.woff2?v=4.4.0 ( Final code = 200 )
+[ 2019-04-22 13:16:57 ] >>>>>>>>> END >
+[ 2019-04-22 13:16:57 ] remove_web() function
+[ 2019-04-22 13:16:57 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/fontawesome/blog_subdomain/fontawesome-webfont.woff --> File Created !!!
+[ 2019-04-22 13:16:57 ] set_files_count_xml() function
+[ 2019-04-22 13:16:57 ] increment +1
+[ 2019-04-22 13:16:57 ] key = 'fonts' |  value = '20'
+[ 2019-04-22 13:16:57 ] ----------------------------------------------------------
+[ 2019-04-22 13:16:57 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/fontawesome//fontawesome-webfont.woff2?v=4.4.0' WITH 'assets/fonts/fontawesome/blog_subdomain/fontawesome-webfont.woff'
+[ 2019-04-22 13:16:57 ] update_html_file_path = 
+[ 2019-04-22 13:16:57 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:57 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:57 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:57 ] update_html_file_path = 
+[ 2019-04-22 13:16:57 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:57 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/fontawesome//fontawesome-webfont.woff?v=4.4.0
+[ 2019-04-22 13:16:57 ]  --> file already exist 2 -> files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/fontawesome/blog_subdomain/fontawesome-webfont.woff
+[ 2019-04-22 13:16:57 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/fontawesome//fontawesome-webfont.woff?v=4.4.0' WITH 'assets/fonts/fontawesome/blog_subdomain/fontawesome-webfont.woff'
+[ 2019-04-22 13:16:57 ] update_html_file_path = 
+[ 2019-04-22 13:16:57 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:57 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:57 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:57 ] update_html_file_path = 
+[ 2019-04-22 13:16:57 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:57 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/fontawesome//fontawesome-webfont.ttf?v=4.4.0
+[ 2019-04-22 13:16:57 ] file url = https://web.archive.org/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/fontawesome//fontawesome-webfont.ttf?v=4.4.0
+[ 2019-04-22 13:16:57 ] >>>>>>>>> START >
+[ 2019-04-22 13:16:57 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:16:57 ] URL = https://web.archive.org/web/20180618065845im_/https:/blog.moderntld.com/assets/fonts/fontawesome/fontawesome-webfont.ttf?v=4.4.0
+[ 2019-04-22 13:16:57 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:16:57 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:16:57 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:16:59 ] code = 200
+[ 2019-04-22 13:16:59 ] Final URL = https://web.archive.org/web/20180722170146im_/https://blog.moderntld.com/assets/fonts/fontawesome//fontawesome-webfont.ttf?v=4.4.0 ( Final code = 200 )
+[ 2019-04-22 13:16:59 ] >>>>>>>>> END >
+[ 2019-04-22 13:16:59 ] remove_web() function
+[ 2019-04-22 13:16:59 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/fontawesome/blog_subdomain/fontawesome-webfont.ttf --> File Created !!!
+[ 2019-04-22 13:16:59 ] set_files_count_xml() function
+[ 2019-04-22 13:16:59 ] increment +1
+[ 2019-04-22 13:16:59 ] key = 'fonts' |  value = '21'
+[ 2019-04-22 13:16:59 ] ----------------------------------------------------------
+[ 2019-04-22 13:16:59 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/fontawesome//fontawesome-webfont.ttf?v=4.4.0' WITH 'assets/fonts/fontawesome/blog_subdomain/fontawesome-webfont.ttf'
+[ 2019-04-22 13:16:59 ] update_html_file_path = 
+[ 2019-04-22 13:16:59 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:59 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:16:59 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:16:59 ] update_html_file_path = 
+[ 2019-04-22 13:16:59 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:16:59 ] file_url_from_html_never_changed = /web/20180618065845im_/https://blog.moderntld.com/assets/fonts/fontawesome//fontawesome-webfont.svg?v=4.4.0#fontawesomeregular
+[ 2019-04-22 13:16:59 ] file url = https://web.archive.org/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/fontawesome//fontawesome-webfont.svg?v=4.4.0#fontawesomeregular
+[ 2019-04-22 13:16:59 ] >>>>>>>>> START >
+[ 2019-04-22 13:16:59 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:16:59 ] URL = https://web.archive.org/web/20180618065845im_/https:/blog.moderntld.com/assets/fonts/fontawesome/fontawesome-webfont.svg?v=4.4.0#fontawesomeregular
+[ 2019-04-22 13:16:59 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:16:59 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:16:59 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:17:01 ] code = 200
+[ 2019-04-22 13:17:01 ] Final URL = https://web.archive.org/web/20180722175416im_/https://blog.moderntld.com/assets/fonts/fontawesome//fontawesome-webfont.svg?v=4.4.0 ( Final code = 200 )
+[ 2019-04-22 13:17:01 ] >>>>>>>>> END >
+[ 2019-04-22 13:17:01 ] remove_web() function
+[ 2019-04-22 13:17:01 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/assets/fonts/fontawesome/blog_subdomain/fontawesome-webfont.svg --> File Created !!!
+[ 2019-04-22 13:17:01 ] set_files_count_xml() function
+[ 2019-04-22 13:17:01 ] increment +1
+[ 2019-04-22 13:17:01 ] key = 'fonts' |  value = '22'
+[ 2019-04-22 13:17:01 ] ----------------------------------------------------------
+[ 2019-04-22 13:17:01 ] assets/css/blog_subdomain/app.css : REPLACE '/web/20180618065845im_/https://blog.moderntld.com/assets/fonts/fontawesome//fontawesome-webfont.svg?v=4.4.0#fontawesomeregular' WITH 'assets/fonts/fontawesome/blog_subdomain/fontawesome-webfont.svg'
+[ 2019-04-22 13:17:01 ] update_html_file_path = 
+[ 2019-04-22 13:17:01 ] folder_path = assets/css/blog_subdomain/
+[ 2019-04-22 13:17:01 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:17:01 ] /*******		End : Extract 'fonts_from_css' files		**********/
+[ 2019-04-22 13:17:01 ] /*******		      From    'assets/css/blog_subdomain/app.css'      **********/
+[ 2019-04-22 13:17:01 ] 
+[ 2019-04-22 13:17:01 ] 
+[ 2019-04-22 13:17:01 ] 
+[ 2019-04-22 13:17:01 ] /**************************************************************/
+[ 2019-04-22 13:17:01 ] /*******		Extract 'background_images' files		**********/
+[ 2019-04-22 13:17:01 ] /*******		From    'assets/css/blog_subdomain/app.css'      **********/
+[ 2019-04-22 13:17:01 ] /**************************************************************/
+[ 2019-04-22 13:17:01 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:17:01 ] update_html_file_path = 
+[ 2019-04-22 13:17:01 ] folder_path = assets/css/blog_subdomain/img
+[ 2019-04-22 13:17:01 ] file_url_from_html_never_changed = assets/fonts/material-design-icons/blog_subdomain/Material-Design-Icons.svg
+[ 2019-04-22 13:17:01 ] file url = https://web.archive.org/web/20180331031825cs_/https://blog.moderntld.com/assets/css/app.css/assets/fonts/material-design-icons/blog_subdomain/Material-Design-Icons.svg
+[ 2019-04-22 13:17:01 ] >>>>>>>>> START >
+[ 2019-04-22 13:17:01 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:17:01 ] URL = https://web.archive.org/web/20180331031825cs_/https:/blog.moderntld.com/assets/css/app.css/assets/fonts/material-design-icons/blog_subdomain/Material-Design-Icons.svg
+[ 2019-04-22 13:17:01 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:17:01 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:17:01 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:17:02 ] code = 404
+[ 2019-04-22 13:17:02 ]     No sleep!
+[ 2019-04-22 13:17:02 ] ---------------------------------------------------------------
+[ 2019-04-22 13:17:02 ] Test Num = 2
+[ 2019-04-22 13:17:02 ] \\\\
+[ 2019-04-22 13:17:02 ] get_curl() function launching ...
+[ 2019-04-22 13:17:02 ] URL = https://archive.org/wayback/available?url=https:/blog.moderntld.com%2Fassets%2Fcss%2Fapp.css%2Fassets%2Ffonts%2Fmaterial-design-icons%2Fblog_subdomain%2FMaterial-Design-Icons.svg&timestamp=20180331031825cs_ ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:17:02 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:17:02 ] useragent = Mozilla/5.0 (Windows NT 6.1; rv:27.3) Gecko/20130101 Firefox/27.3
+[ 2019-04-22 13:17:02 ] Final Code = 200
+[ 2019-04-22 13:17:02 ] Final HTML found = Yes
+[ 2019-04-22 13:17:02 ] ////
+[ 2019-04-22 13:17:02 ] This archive URL is not found https://web.archive.org/web/20180331031825cs_/https:/blog.moderntld.com%2Fassets%2Fcss%2Fapp.css%2Fassets%2Ffonts%2Fmaterial-design-icons%2Fblog_subdomain%2FMaterial-Design-Icons.svg
+[ 2019-04-22 13:17:02 ] Archive API say that this url don't exist =  ( Final code = 404 )
+[ 2019-04-22 13:17:02 ] >>>>>>>>> END >
+[ 2019-04-22 13:17:02 ] This is a broken image :assets/fonts/material-design-icons/blog_subdomain/Material-Design-Icons.svg
+[ 2019-04-22 13:17:02 ] remove_web() function
+[ 2019-04-22 13:17:02 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:17:02 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:17:02 ] update_html_file_path = 
+[ 2019-04-22 13:17:02 ] folder_path = assets/css/blog_subdomain/img
+[ 2019-04-22 13:17:02 ] file_url_from_html_never_changed = assets/fonts/fontawesome/blog_subdomain/fontawesome-webfont.svg
+[ 2019-04-22 13:17:02 ] file url = https://web.archive.org/web/20180331031825cs_/https://blog.moderntld.com/assets/css/app.css/assets/fonts/fontawesome/blog_subdomain/fontawesome-webfont.svg
+[ 2019-04-22 13:17:02 ] >>>>>>>>> START >
+[ 2019-04-22 13:17:02 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:17:02 ] URL = https://web.archive.org/web/20180331031825cs_/https:/blog.moderntld.com/assets/css/app.css/assets/fonts/fontawesome/blog_subdomain/fontawesome-webfont.svg
+[ 2019-04-22 13:17:02 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:17:02 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:17:02 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:17:03 ] code = 404
+[ 2019-04-22 13:17:03 ]     No sleep!
+[ 2019-04-22 13:17:03 ] ---------------------------------------------------------------
+[ 2019-04-22 13:17:03 ] Test Num = 2
+[ 2019-04-22 13:17:03 ] \\\\
+[ 2019-04-22 13:17:03 ] get_curl() function launching ...
+[ 2019-04-22 13:17:03 ] URL = https://archive.org/wayback/available?url=https:/blog.moderntld.com%2Fassets%2Fcss%2Fapp.css%2Fassets%2Ffonts%2Ffontawesome%2Fblog_subdomain%2Ffontawesome-webfont.svg&timestamp=20180331031825cs_ ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:17:03 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:17:03 ] useragent = Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
+[ 2019-04-22 13:17:03 ] Final Code = 200
+[ 2019-04-22 13:17:03 ] Final HTML found = Yes
+[ 2019-04-22 13:17:03 ] ////
+[ 2019-04-22 13:17:03 ] This archive URL is not found https://web.archive.org/web/20180331031825cs_/https:/blog.moderntld.com%2Fassets%2Fcss%2Fapp.css%2Fassets%2Ffonts%2Ffontawesome%2Fblog_subdomain%2Ffontawesome-webfont.svg
+[ 2019-04-22 13:17:03 ] Archive API say that this url don't exist =  ( Final code = 404 )
+[ 2019-04-22 13:17:03 ] >>>>>>>>> END >
+[ 2019-04-22 13:17:03 ] This is a broken image :assets/fonts/fontawesome/blog_subdomain/fontawesome-webfont.svg
+[ 2019-04-22 13:17:03 ] remove_web() function
+[ 2019-04-22 13:17:03 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:17:03 ] /*******		End : Extract 'background_images' files		**********/
+[ 2019-04-22 13:17:03 ] /*******		      From    'assets/css/blog_subdomain/app.css'      **********/
+[ 2019-04-22 13:17:03 ] 
+[ 2019-04-22 13:17:03 ] remove_web() function
+[ 2019-04-22 13:17:03 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/css/blog_subdomain/app.css --> File Created !!!
+[ 2019-04-22 13:17:03 ] set_files_count_xml() function
+[ 2019-04-22 13:17:03 ] increment +1
+[ 2019-04-22 13:17:03 ] key = 'css' |  value = '4'
+[ 2019-04-22 13:17:03 ] ----------------------------------------------------------
+[ 2019-04-22 13:17:03 ] blog_subdomain/index.html : REPLACE '/web/20180331031825cs_/https://blog.moderntld.com/assets/css/app.css' WITH '../../assets/css/blog_subdomain/app.css'
+[ 2019-04-22 13:17:03 ] update_html_file_path = 
+[ 2019-04-22 13:17:03 ] folder_path = 
+[ 2019-04-22 13:17:03 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:17:03 ] /*******		End : Extract 'css' files		**********/
+[ 2019-04-22 13:17:03 ] /*******		      From    'blog_subdomain/index.html'      **********/
+[ 2019-04-22 13:17:03 ] 
+[ 2019-04-22 13:17:03 ] 
+[ 2019-04-22 13:17:03 ] 
+[ 2019-04-22 13:17:03 ] /**************************************************************/
+[ 2019-04-22 13:17:03 ] /*******		Extract 'img' files		**********/
+[ 2019-04-22 13:17:03 ] /*******		From    'blog_subdomain/index.html'      **********/
+[ 2019-04-22 13:17:03 ] /**************************************************************/
+[ 2019-04-22 13:17:03 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:17:03 ] update_html_file_path = 
+[ 2019-04-22 13:17:03 ] folder_path = 
+[ 2019-04-22 13:17:03 ] file_url_from_html_never_changed = //web.archive.org/web/20180331031825im_/https://piwik.moderntld.me/piwik.php?idsite=2&amp;rec=1
+[ 2019-04-22 13:17:03 ] file url = https://web.archive.org/web/20180331031825im_/https://piwik.moderntld.me/piwik.php?idsite=2&amp;rec=1
+[ 2019-04-22 13:17:03 ] >>>>>>>>> START >
+[ 2019-04-22 13:17:03 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:17:03 ] URL = https://web.archive.org/web/20180331031825im_/https:/piwik.moderntld.me/piwik.php?idsite=2&amp;rec=1
+[ 2019-04-22 13:17:03 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:17:03 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:17:03 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:17:04 ] code = 200
+[ 2019-04-22 13:17:04 ] Final URL = https://web.archive.org/web/20170524095616im_/https://piwik.moderntld.me/piwik.php?idsite=2&rec=1 ( Final code = 200 )
+[ 2019-04-22 13:17:04 ] >>>>>>>>> END >
+[ 2019-04-22 13:17:05 ] moderntld.com_01507187_nz.is_vgtysebpin4/piwik.php_idsite_2_rec_1.gif --> File Created !!!
+[ 2019-04-22 13:17:05 ] set_files_count_xml() function
+[ 2019-04-22 13:17:05 ] increment +1
+[ 2019-04-22 13:17:05 ] key = 'img' |  value = '1'
+[ 2019-04-22 13:17:05 ] ----------------------------------------------------------
+[ 2019-04-22 13:17:05 ] blog_subdomain/index.html : REPLACE '//web.archive.org/web/20180331031825im_/https://piwik.moderntld.me/piwik.php?idsite=2&amp;rec=1' WITH '../../piwik.php_idsite_2_rec_1.gif'
+[ 2019-04-22 13:17:05 ] update_html_file_path = 
+[ 2019-04-22 13:17:05 ] folder_path = 
+[ 2019-04-22 13:17:05 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:17:05 ] /*******		End : Extract 'img' files		**********/
+[ 2019-04-22 13:17:05 ] /*******		      From    'blog_subdomain/index.html'      **********/
+[ 2019-04-22 13:17:05 ] 
+[ 2019-04-22 13:17:05 ] 
+[ 2019-04-22 13:17:05 ] 
+[ 2019-04-22 13:17:05 ] /**************************************************************/
+[ 2019-04-22 13:17:05 ] /*******		Extract 'background_images' files		**********/
+[ 2019-04-22 13:17:05 ] /*******		From    'blog_subdomain/index.html'      **********/
+[ 2019-04-22 13:17:05 ] /**************************************************************/
+[ 2019-04-22 13:17:05 ] There is no file with type 'background_images'
+[ 2019-04-22 13:17:05 ] /*******		End : Extract 'background_images' files		**********/
+[ 2019-04-22 13:17:05 ] /*******		      From    'blog_subdomain/index.html'      **********/
+[ 2019-04-22 13:17:05 ] 
+[ 2019-04-22 13:17:05 ] 
+[ 2019-04-22 13:17:05 ] 
+[ 2019-04-22 13:17:05 ] /**************************************************************/
+[ 2019-04-22 13:17:05 ] /*******		Extract 'background_images_in_html' files		**********/
+[ 2019-04-22 13:17:05 ] /*******		From    'blog_subdomain/index.html'      **********/
+[ 2019-04-22 13:17:05 ] /**************************************************************/
+[ 2019-04-22 13:17:05 ] There is no file with type 'background_images_in_html'
+[ 2019-04-22 13:17:05 ] /*******		End : Extract 'background_images_in_html' files		**********/
+[ 2019-04-22 13:17:05 ] /*******		      From    'blog_subdomain/index.html'      **********/
+[ 2019-04-22 13:17:05 ] 
+[ 2019-04-22 13:17:05 ] 
+[ 2019-04-22 13:17:05 ] 
+[ 2019-04-22 13:17:05 ] /**************************************************************/
+[ 2019-04-22 13:17:05 ] /*******		Extract 'script' files		**********/
+[ 2019-04-22 13:17:05 ] /*******		From    'blog_subdomain/index.html'      **********/
+[ 2019-04-22 13:17:05 ] /**************************************************************/
+[ 2019-04-22 13:17:05 ] From get_href_arr_javascript_from_html() func (pushed) >> href = piwik.js
+[ 2019-04-22 13:17:05 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:17:05 ] update_html_file_path = 
+[ 2019-04-22 13:17:05 ] folder_path = 
+[ 2019-04-22 13:17:05 ] file_url_from_html_never_changed = /web/20180331031825js_/https://blog.moderntld.com/assets/js/jquery.js
+[ 2019-04-22 13:17:05 ] file url = https://web.archive.org/web/20180331031825js_/https://blog.moderntld.com/assets/js/jquery.js
+[ 2019-04-22 13:17:05 ] >>>>>>>>> START >
+[ 2019-04-22 13:17:05 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:17:05 ] URL = https://web.archive.org/web/20180331031825js_/https:/blog.moderntld.com/assets/js/jquery.js
+[ 2019-04-22 13:17:05 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:17:05 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:17:05 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:17:07 ] code = 200
+[ 2019-04-22 13:17:07 ] Final URL = https://web.archive.org/web/20180621003446js_/https://blog.moderntld.com/assets/js/jquery.js ( Final code = 200 )
+[ 2019-04-22 13:17:07 ] >>>>>>>>> END >
+[ 2019-04-22 13:17:07 ] remove_web() function
+[ 2019-04-22 13:17:07 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/js/blog_subdomain/jquery.js --> File Created !!!
+[ 2019-04-22 13:17:07 ] set_files_count_xml() function
+[ 2019-04-22 13:17:07 ] increment +1
+[ 2019-04-22 13:17:07 ] key = 'js' |  value = '3'
+[ 2019-04-22 13:17:07 ] ----------------------------------------------------------
+[ 2019-04-22 13:17:07 ] blog_subdomain/index.html : REPLACE '/web/20180331031825js_/https://blog.moderntld.com/assets/js/jquery.js' WITH '../../assets/js/blog_subdomain/jquery.js'
+[ 2019-04-22 13:17:07 ] update_html_file_path = 
+[ 2019-04-22 13:17:07 ] folder_path = 
+[ 2019-04-22 13:17:07 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:17:07 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:17:07 ] update_html_file_path = 
+[ 2019-04-22 13:17:07 ] folder_path = 
+[ 2019-04-22 13:17:07 ] file_url_from_html_never_changed = /web/20180331031825js_/https://blog.moderntld.com/assets/js/materialize.js
+[ 2019-04-22 13:17:07 ] file url = https://web.archive.org/web/20180331031825js_/https://blog.moderntld.com/assets/js/materialize.js
+[ 2019-04-22 13:17:07 ] >>>>>>>>> START >
+[ 2019-04-22 13:17:07 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:17:07 ] URL = https://web.archive.org/web/20180331031825js_/https:/blog.moderntld.com/assets/js/materialize.js
+[ 2019-04-22 13:17:07 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:17:07 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:17:07 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:17:08 ] code = 200
+[ 2019-04-22 13:17:08 ] Final URL = https://web.archive.org/web/20180619031127js_/https://blog.moderntld.com/assets/js/materialize.js ( Final code = 200 )
+[ 2019-04-22 13:17:08 ] >>>>>>>>> END >
+[ 2019-04-22 13:17:08 ] remove_web() function
+[ 2019-04-22 13:17:08 ] moderntld.com_01507187_nz.is_vgtysebpin4/assets/js/blog_subdomain/materialize.js --> File Created !!!
+[ 2019-04-22 13:17:08 ] set_files_count_xml() function
+[ 2019-04-22 13:17:08 ] increment +1
+[ 2019-04-22 13:17:08 ] key = 'js' |  value = '4'
+[ 2019-04-22 13:17:08 ] ----------------------------------------------------------
+[ 2019-04-22 13:17:08 ] blog_subdomain/index.html : REPLACE '/web/20180331031825js_/https://blog.moderntld.com/assets/js/materialize.js' WITH '../../assets/js/blog_subdomain/materialize.js'
+[ 2019-04-22 13:17:08 ] update_html_file_path = 
+[ 2019-04-22 13:17:08 ] folder_path = 
+[ 2019-04-22 13:17:08 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:17:08 ] replace_and_create_script_link() = function Start
+[ 2019-04-22 13:17:08 ] update_html_file_path = 
+[ 2019-04-22 13:17:08 ] folder_path = 
+[ 2019-04-22 13:17:08 ] file_url_from_html_never_changed = piwik.js
+[ 2019-04-22 13:17:08 ] file url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/piwik.js
+[ 2019-04-22 13:17:08 ] >>>>>>>>> START >
+[ 2019-04-22 13:17:08 ] get_curl_archive() Launching ...
+[ 2019-04-22 13:17:08 ] URL = https://web.archive.org/web/20180331031825/https:/blog.moderntld.com/piwik.js
+[ 2019-04-22 13:17:08 ] main_archive_url = https://web.archive.org/web/20180331031825/https://blog.moderntld.com/
+[ 2019-04-22 13:17:08 ] no proxy used ( Test nbr 1/6 )
+[ 2019-04-22 13:17:08 ] useragent = waybackmachinedownloader
+[ 2019-04-22 13:17:09 ] code = 404
+[ 2019-04-22 13:17:09 ]     No sleep!
+[ 2019-04-22 13:17:09 ] ---------------------------------------------------------------
+[ 2019-04-22 13:17:09 ] Test Num = 2
+[ 2019-04-22 13:17:09 ] \\\\
+[ 2019-04-22 13:17:09 ] get_curl() function launching ...
+[ 2019-04-22 13:17:09 ] URL = https://archive.org/wayback/available?url=https:/blog.moderntld.com%2Fpiwik.js&timestamp=20180331031825 ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:17:09 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:17:09 ] useragent = Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-gb) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+[ 2019-04-22 13:17:09 ] Final Code = 200
+[ 2019-04-22 13:17:09 ] Final HTML found = Yes
+[ 2019-04-22 13:17:09 ] ////
+[ 2019-04-22 13:17:09 ] This archive URL is not found https://web.archive.org/web/20180331031825/https:/blog.moderntld.com%2Fpiwik.js
+[ 2019-04-22 13:17:09 ] Archive API say that this url don't exist =  ( Final code = 404 )
+[ 2019-04-22 13:17:09 ] >>>>>>>>> END >
+[ 2019-04-22 13:17:09 ] This is a broken image :piwik.js
+[ 2019-04-22 13:17:09 ] remove_web() function
+[ 2019-04-22 13:17:09 ] -------------------------------------------------------------------------------------------
+[ 2019-04-22 13:17:09 ] /*******		End : Extract 'script' files		**********/
+[ 2019-04-22 13:17:09 ] /*******		      From    'blog_subdomain/index.html'      **********/
+[ 2019-04-22 13:17:09 ] 
+[ 2019-04-22 13:17:09 ] 
+[ 2019-04-22 13:17:09 ] 
+[ 2019-04-22 13:17:09 ] /**************************************************************/
+[ 2019-04-22 13:17:09 ] /*******		Extract 'swf' files		**********/
+[ 2019-04-22 13:17:09 ] /*******		From    'blog_subdomain/index.html'      **********/
+[ 2019-04-22 13:17:09 ] /**************************************************************/
+[ 2019-04-22 13:17:09 ] There is no file with type 'swf'
+[ 2019-04-22 13:17:09 ] /*******		End : Extract 'swf' files		**********/
+[ 2019-04-22 13:17:09 ] /*******		      From    'blog_subdomain/index.html'      **********/
+[ 2019-04-22 13:17:09 ] 
+[ 2019-04-22 13:17:09 ] remove_web() function
+[ 2019-04-22 13:17:09 ] moderntld.com_01507187_nz.is_vgtysebpin4/blog_subdomain/index.html --> HTML File Created !!!
+[ 2019-04-22 13:17:09 ] ----------------------------------------------------------------------
+[ 2019-04-22 13:17:09 ] update  to_create_arr[4][is_done] = 1
+[ 2019-04-22 13:17:09 ] set_files_count_xml() function
+[ 2019-04-22 13:17:09 ] key = 'html_total' |  value = '6'
+[ 2019-04-22 13:17:09 ] key = 'html_done' |  value = '2'
+[ 2019-04-22 13:17:09 ] ----------------------------------------------------------
+[ 2019-04-22 13:17:09 ] ( 2 / 6 )  Done - 5 error pages fixed
+[ 2019-04-22 13:17:09 ] ------------------------------------------------------------------
+[ 2019-04-22 13:17:09 ] set_files_count_xml() function
+[ 2019-04-22 13:17:09 ] key = 'html_total' |  value = '6'
+[ 2019-04-22 13:17:09 ] key = 'html_done' |  value = '2'
+[ 2019-04-22 13:17:09 ] ----------------------------------------------------------
+[ 2019-04-22 13:17:09 ] ( 2 / 6 )  Done - 5 error pages fixed
+[ 2019-04-22 13:17:09 ] blog_subdomain/keys.html -> File name found in to_create_arr
+[ 2019-04-22 13:17:09 ] #####################################################################################################
+[ 2019-04-22 13:17:09 ] ###############https://web.archive.org/web/20180331031825/https://blog.moderntld.com/keys/ ( Scraping  of 3 / 6 )  - 5 error pages fixed###############
+[ 2019-04-22 13:17:09 ] ###############Local URL = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/blog_subdomain/keys.html (code = -1) ###############
+[ 2019-04-22 13:17:09 ] ###############Try number = 1###############
+[ 2019-04-22 13:17:09 ] #####################################################################################################
+[ 2019-04-22 13:17:09 ]  Main level =2
+[ 2019-04-22 13:17:09 ] local_file_path not created yet = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/blog_subdomain/keys.html
+[ 2019-04-22 13:17:09 ] code = -1
+[ 2019-04-22 13:17:09 ] remove_web() function
+[ 2019-04-22 13:17:09 ] Limit of 3 pages exceeded in demo version !!!
+[ 2019-04-22 13:17:09 ] ----------------------------------------------------------------------
+[ 2019-04-22 13:17:09 ] update  to_create_arr[7][is_done] = 1
+[ 2019-04-22 13:17:09 ] set_files_count_xml() function
+[ 2019-04-22 13:17:09 ] key = 'html_total' |  value = '6'
+[ 2019-04-22 13:17:09 ] key = 'html_done' |  value = '3'
+[ 2019-04-22 13:17:09 ] ----------------------------------------------------------
+[ 2019-04-22 13:17:09 ] ( 3 / 6 )  Done - 5 error pages fixed
+[ 2019-04-22 13:17:09 ] ------------------------------------------------------------------
+[ 2019-04-22 13:17:09 ] set_files_count_xml() function
+[ 2019-04-22 13:17:09 ] key = 'html_total' |  value = '6'
+[ 2019-04-22 13:17:09 ] key = 'html_done' |  value = '3'
+[ 2019-04-22 13:17:09 ] ----------------------------------------------------------
+[ 2019-04-22 13:17:09 ] ( 3 / 6 )  Done - 5 error pages fixed
+[ 2019-04-22 13:17:09 ] blog_subdomain/news/2017/04/20/o-registration-system-online.html -> File name found in to_create_arr
+[ 2019-04-22 13:17:09 ] #####################################################################################################
+[ 2019-04-22 13:17:09 ] ###############https://web.archive.org/web/20180331031825/https://blog.moderntld.com/news/2017/04/20/o-registration-system-online/ ( Scraping  of 4 / 6 )  - 5 error pages fixed###############
+[ 2019-04-22 13:17:09 ] ###############Local URL = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/blog_subdomain/news/2017/04/20/o-registration-system-online.html (code = -1) ###############
+[ 2019-04-22 13:17:09 ] ###############Try number = 1###############
+[ 2019-04-22 13:17:09 ] #####################################################################################################
+[ 2019-04-22 13:17:09 ]  Main level =2
+[ 2019-04-22 13:17:09 ] local_file_path not created yet = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/blog_subdomain/news/2017/04/20/o-registration-system-online.html
+[ 2019-04-22 13:17:09 ] code = -1
+[ 2019-04-22 13:17:09 ] remove_web() function
+[ 2019-04-22 13:17:09 ] Limit of 3 pages exceeded in demo version !!!
+[ 2019-04-22 13:17:09 ] ----------------------------------------------------------------------
+[ 2019-04-22 13:17:09 ] update  to_create_arr[8][is_done] = 1
+[ 2019-04-22 13:17:09 ] set_files_count_xml() function
+[ 2019-04-22 13:17:09 ] key = 'html_total' |  value = '6'
+[ 2019-04-22 13:17:09 ] key = 'html_done' |  value = '4'
+[ 2019-04-22 13:17:09 ] ----------------------------------------------------------
+[ 2019-04-22 13:17:09 ] ( 4 / 6 )  Done - 5 error pages fixed
+[ 2019-04-22 13:17:09 ] ------------------------------------------------------------------
+[ 2019-04-22 13:17:09 ] set_files_count_xml() function
+[ 2019-04-22 13:17:09 ] key = 'html_total' |  value = '6'
+[ 2019-04-22 13:17:09 ] key = 'html_done' |  value = '4'
+[ 2019-04-22 13:17:09 ] ----------------------------------------------------------
+[ 2019-04-22 13:17:09 ] ( 4 / 6 )  Done - 5 error pages fixed
+[ 2019-04-22 13:17:09 ] blog_subdomain/news/2017/02/04/moving-to-github-pages.html -> File name found in to_create_arr
+[ 2019-04-22 13:17:09 ] #####################################################################################################
+[ 2019-04-22 13:17:09 ] ###############https://web.archive.org/web/20180331031825/https://blog.moderntld.com/news/2017/02/04/moving-to-github-pages/ ( Scraping  of 5 / 6 )  - 5 error pages fixed###############
+[ 2019-04-22 13:17:09 ] ###############Local URL = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/blog_subdomain/news/2017/02/04/moving-to-github-pages.html (code = -1) ###############
+[ 2019-04-22 13:17:09 ] ###############Try number = 1###############
+[ 2019-04-22 13:17:09 ] #####################################################################################################
+[ 2019-04-22 13:17:09 ]  Main level =2
+[ 2019-04-22 13:17:09 ] local_file_path not created yet = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/blog_subdomain/news/2017/02/04/moving-to-github-pages.html
+[ 2019-04-22 13:17:09 ] code = -1
+[ 2019-04-22 13:17:09 ] remove_web() function
+[ 2019-04-22 13:17:09 ] Limit of 3 pages exceeded in demo version !!!
+[ 2019-04-22 13:17:09 ] ----------------------------------------------------------------------
+[ 2019-04-22 13:17:09 ] update  to_create_arr[9][is_done] = 1
+[ 2019-04-22 13:17:09 ] set_files_count_xml() function
+[ 2019-04-22 13:17:09 ] key = 'html_total' |  value = '6'
+[ 2019-04-22 13:17:09 ] key = 'html_done' |  value = '5'
+[ 2019-04-22 13:17:09 ] ----------------------------------------------------------
+[ 2019-04-22 13:17:09 ] ( 5 / 6 )  Done - 5 error pages fixed
+[ 2019-04-22 13:17:09 ] ------------------------------------------------------------------
+[ 2019-04-22 13:17:09 ] set_files_count_xml() function
+[ 2019-04-22 13:17:09 ] key = 'html_total' |  value = '6'
+[ 2019-04-22 13:17:09 ] key = 'html_done' |  value = '5'
+[ 2019-04-22 13:17:09 ] ----------------------------------------------------------
+[ 2019-04-22 13:17:09 ] ( 5 / 6 )  Done - 5 error pages fixed
+[ 2019-04-22 13:17:09 ] blog_subdomain/news/2016/11/27/o-proposal-voting-ends.html -> File name found in to_create_arr
+[ 2019-04-22 13:17:09 ] #####################################################################################################
+[ 2019-04-22 13:17:09 ] ###############https://web.archive.org/web/20180331031825/https://blog.moderntld.com/news/2016/11/27/o-proposal-voting-ends/ ( Scraping  of 6 / 6 )  - 5 error pages fixed###############
+[ 2019-04-22 13:17:09 ] ###############Local URL = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/blog_subdomain/news/2016/11/27/o-proposal-voting-ends.html (code = -1) ###############
+[ 2019-04-22 13:17:09 ] ###############Try number = 1###############
+[ 2019-04-22 13:17:09 ] #####################################################################################################
+[ 2019-04-22 13:17:09 ]  Main level =2
+[ 2019-04-22 13:17:09 ] local_file_path not created yet = files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/blog_subdomain/news/2016/11/27/o-proposal-voting-ends.html
+[ 2019-04-22 13:17:09 ] code = -1
+[ 2019-04-22 13:17:09 ] remove_web() function
+[ 2019-04-22 13:17:09 ] Limit of 3 pages exceeded in demo version !!!
+[ 2019-04-22 13:17:09 ] ----------------------------------------------------------------------
+[ 2019-04-22 13:17:09 ] update  to_create_arr[10][is_done] = 1
+[ 2019-04-22 13:17:09 ] set_files_count_xml() function
+[ 2019-04-22 13:17:09 ] key = 'html_total' |  value = '6'
+[ 2019-04-22 13:17:09 ] key = 'html_done' |  value = '6'
+[ 2019-04-22 13:17:09 ] ----------------------------------------------------------
+[ 2019-04-22 13:17:09 ] ( 6 / 6 )  Done - 5 error pages fixed
+[ 2019-04-22 13:17:09 ] set_files_count_xml() function
+[ 2019-04-22 13:17:09 ] key = 'search_url_added' |  value = 'true'
+[ 2019-04-22 13:17:09 ] ----------------------------------------------------------
+[ 2019-04-22 13:17:09 ] create_zip_file_and_send_email() function
+[ 2019-04-22 13:17:09 ] set_files_count_xml() function
+[ 2019-04-22 13:17:09 ] key = 'html_total' |  value = '6'
+[ 2019-04-22 13:17:09 ] key = 'html_done' |  value = '6'
+[ 2019-04-22 13:17:09 ] ----------------------------------------------------------
+[ 2019-04-22 13:17:09 ] ( 6 / 6 )  Done - 5 error pages fixed
+[ 2019-04-22 13:17:09 ] moderntld.com_01507187_nz.is_vgtysebpin4_backup.zip ZIP Created !!!
+[ 2019-04-22 13:17:09 ] from email =  wayback2hosting@gmail.com
+[ 2019-04-22 13:17:09 ] to email =  Array
+[ 2019-04-22 13:17:09 ] subject =  Html files for : https://www.moderntld.com// (demo) 
+[ 2019-04-22 13:17:09 ] body =  Dear customer,The result of the free demo is now available. You made a request earlier to generate a recovery of https://web.archive.org/web/20170306133110/https://www.moderntld.com//.You can download the HTML files by clicking the download button, or visiting this URL:https://www.waybackmachinedownloader.com/en/file_editor-wayback-machine-downloader-recover/?url=files/demo/moderntld.com_01507187_nz.is_vgtysebpin4The free demo only contains four pages, but you can upload it to your server and it will work correctly.Please note that these files are meant to be installed on an (Apache) web server. If you open them on your personal computer, then certain links will not work. If you follow the installation guide, it will all work!	
+		Installation can be done by following this walkthrough guide: https://www.waybackmachinedownloader.com/en/how-to-download-site-from-wayback-machine/Download filesEdit filesBuy NowKind Regards,Wayback Machine Downloader
+[ 2019-04-22 13:17:10 ] Error occured when sending email !!!
+[ 2019-04-22 13:17:10 ] Final demo email sent!
+[ 2019-04-22 13:17:10 ] Loading Time = 00:03:31
+[ 2019-04-22 13:17:10 ] set_files_count_xml() function
+[ 2019-04-22 13:17:10 ] key = 'total_urls_from_api' |  value = 'counting...'
+[ 2019-04-22 13:17:10 ] ----------------------------------------------------------
+[ 2019-04-22 13:17:10 ] count_url_search_api() function
+[ 2019-04-22 13:17:10 ] set_files_count_xml() function
+[ 2019-04-22 13:17:10 ] key = 'front_page_code_date' |  value = '20170306133110'
+[ 2019-04-22 13:17:10 ] ----------------------------------------------------------
+[ 2019-04-22 13:17:10 ] front_page_code_date = 20170306133110
+[ 2019-04-22 13:17:10 ] Looking for URLs from Archive API https://web.archive.org/cdx/search/cdx
+[ 2019-04-22 13:17:10 ] \\\\
+[ 2019-04-22 13:17:10 ] get_curl() function launching ...
+[ 2019-04-22 13:17:10 ] URL = https://web.archive.org/cdx/search/cdx?url=moderntld.com&matchType=domain&limit=10000&output=json&filter=statuscode:200&filter=mimetype:text/html&showResumeKey=true ( get_curl Test nbr 1/3 )
+[ 2019-04-22 13:17:10 ] no proxy used ( Test nbr 1/3 )
+[ 2019-04-22 13:17:10 ] useragent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:21.0) Gecko/20100101 Firefox/21.0
+[ 2019-04-22 13:17:10 ] Final Code = 200
+[ 2019-04-22 13:17:10 ] Final HTML found = Yes
+[ 2019-04-22 13:17:10 ] ////
+[ 2019-04-22 13:17:10 ] Cycle number : 1
+[ 2019-04-22 13:17:10 ] Search URL : https://web.archive.org/cdx/search/cdx?url=moderntld.com&matchType=domain&limit=10000&output=json&filter=statuscode:200&filter=mimetype:text/html&showResumeKey=true
+[ 2019-04-22 13:17:10 ] Temp page found : 16
+[ 2019-04-22 13:17:10 ] max_cycles : False (limit reached = False)
+[ 2019-04-22 13:17:10 ] max_pages : 1000 (limit reached = False)
+[ 2019-04-22 13:17:10 ] URL Found from search : 16
+[ 2019-04-22 13:17:10 ] set_files_count_xml() function
+[ 2019-04-22 13:17:10 ] key = 'total_urls_from_api' |  value = '16 pages'
+[ 2019-04-22 13:17:10 ] ----------------------------------------------------------

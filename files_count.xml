@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<pagescount>
+	<html_total>6</html_total>
+	<html_done>6</html_done>
+	<img>1</img>
+	<js>4</js>
+	<css>4</css>
+	<pdf/>
+	<doc/>
+	<xls/>
+	<ppt/>
+	<swf/>
+	<mp3/>
+	<mp4/>
+	<wav/>
+	<xml/>
+	<json/>
+	<txt/>
+	<fonts>22</fonts>
+	<scraping_reload>1</scraping_reload>
+	<is_pretty_url>true</is_pretty_url>
+	<is_ebn>false</is_ebn>
+	<theme_name>54368</theme_name>
+	<server_url_front_page>https://www.waybackmachinedownloader.com/scraping/files/demo/moderntld.com_01507187_nz.is_vgtysebpin4/</server_url_front_page>
+	<hosted_domain/>
+	<original_archive_url>https://web.archive.org/web/20170306133110/https://www.moderntld.com//</original_archive_url>
+	<final_archive_url>https://web.archive.org/web/20170306133110/https://www.moderntld.com//</final_archive_url>
+	<front_page_code_date>20170306133110</front_page_code_date>
+	<total_urls_from_api>16 pages</total_urls_from_api>
+	<search_url_added>true</search_url_added>
+</pagescount>
