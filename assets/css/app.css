@@ -11105,11 +11105,12 @@ footer.page-footer {
     font-weight: bold;
     text-align: center;
     flex-grow: 1;
-    height: 94px;
-    line-height: 42px;
 }
 
-.payment-flexbox {
-    display: flex;
-    justify-content: space-between;
+.payment-box {
+    height: 94px;
+    line-height: 42px;
+    padding-top: 7px;
+    text-transform: none;
+    font-weight: normal;
 }
