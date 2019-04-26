@@ -1,4 +1,4 @@
-.materialize-red.lighten-5 {
+    .materialize-red.lighten-5 {
     background-color: #fdeaeb !important
 }
 
@@ -11129,3 +11129,8 @@ footer.page-footer {
         display: inline;
     }
 }
+
+@media only screen and (mim-width: 1294px) {
+    .payment-box {
+        flex-basis: 294px;
+    }
