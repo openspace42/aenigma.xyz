@@ -1,8 +1,3 @@
-#aenigma-logo {
-    width: 124px;
-    margin-top: 10px;
-}
-
 .materialize-red.lighten-5 {
     background-color: #fdeaeb !important
 }
@@ -11073,8 +11068,6 @@ footer.page-footer {
     line-height: 1.5;
     letter-spacing: -0.003em
 }
-
-* Additions
 
 #aenigma-logo {
     width: 124px;
