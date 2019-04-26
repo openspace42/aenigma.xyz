@@ -11109,8 +11109,23 @@ footer.page-footer {
 
 .payment-box {
     height: 94px;
-    line-height: 42px;
-    padding-top: 7px;
+    line-height: 38px;
+    padding-top: 11px;
     text-transform: none;
     font-weight: normal;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+#btc-payment-box-mobile {
+    display: none;
+}
+
+@media only screen and (max-width: 456px) {
+    #btc-payment-box {
+        display: none;
+    }
+    #btc-payment-box-mobile {
+        display: inline;
+    }
 }
