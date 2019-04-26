@@ -11099,6 +11099,12 @@ footer.page-footer {
     margin-bottom: 42px;
 }
 
+@media only screen and (min-width: 601px) and (max-width: 690   px) {
+    .intro-title {
+        height: 75px;
+    }
+}
+
 @media only screen and (min-width: 794px) and (max-width: 1494px) {
     .intro-title {
         height: 54px;
