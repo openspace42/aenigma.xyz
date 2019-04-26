@@ -11095,6 +11095,18 @@ footer.page-footer {
     }
 }
 
+#get-started-btn {
+    width: 348px;
+    height: 58px;
+    line-height: 58px;
+}
+
+@media only screen and (max-width: 482px) {
+    #get-started-btn {
+        width: 238px;
+    }
+}
+
 #intro-container {
     margin-bottom: 42px;
 }
