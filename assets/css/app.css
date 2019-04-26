@@ -10955,7 +10955,9 @@ body {
 }
 
 main {
-    flex: 1 0 auto
+    flex: 1 0 auto;
+    background-color: #161616;
+    color: #ffffff;
 }
 
 .container {
@@ -11071,15 +11073,30 @@ footer.page-footer {
 
 /* Additions*/
 
-#aenigma-logo {
+#aenigma-logo-nav {
     width: 124px;
     margin-top: 10px;
 }
 
 @media only screen and (max-width: 601px) {
-    #aenigma-logo {
+    #aenigma-logo-nav {
         margin-top: 7px;
     }
+}
+
+#aenigma-logo-main {
+    width: 364px;
+    margin-top: 64px;
+}
+
+@media only screen and (max-width: 482px) {
+    #aenigma-logo-main {
+        width: 248px;
+    }
+}
+
+#intro-container {
+    margin-bottom: 42px;
 }
 
 .flex-container {
