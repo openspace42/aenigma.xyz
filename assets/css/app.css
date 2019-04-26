@@ -11129,6 +11129,11 @@ footer.page-footer {
     margin-bottom: 20px;
 }
 
+.purple {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 .feature-box {
     text-align: justify;
 }
