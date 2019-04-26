@@ -11099,6 +11099,12 @@ footer.page-footer {
     margin-bottom: 42px;
 }
 
+@media only screen and (min-width: 794px) and (max-width: 1494px) {
+    .feature-box {
+        height: 54px;
+    }
+}
+
 .flex-container {
     padding: 0;
     margin: 0;
