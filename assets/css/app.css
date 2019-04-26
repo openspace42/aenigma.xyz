@@ -11100,9 +11100,13 @@ footer.page-footer {
 }
 
 @media only screen and (min-width: 794px) and (max-width: 1494px) {
-    .feature-box {
+    .intro-title {
         height: 54px;
     }
+}
+
+.feature-box {
+    text-align: justify;
 }
 
 .flex-container {
