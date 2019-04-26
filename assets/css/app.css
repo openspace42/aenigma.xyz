@@ -11105,6 +11105,8 @@ footer.page-footer {
     font-weight: bold;
     text-align: center;
     flex-grow: 1;
+    height: 94px;
+    line-height: 42px;
 }
 
 .payment-flexbox {
