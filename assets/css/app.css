@@ -11123,6 +11123,12 @@ footer.page-footer {
     }
 }
 
+.red {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
 .feature-box {
     text-align: justify;
 }
