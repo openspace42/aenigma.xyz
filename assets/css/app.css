@@ -11123,6 +11123,12 @@ footer.page-footer {
     }
 }
 
+.green {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
 .red {
     padding-top: 20px;
     padding-bottom: 20px;
