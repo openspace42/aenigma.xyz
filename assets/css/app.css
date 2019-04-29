@@ -11197,3 +11197,23 @@ footer.page-footer {
         flex-basis: 294px;
     }
 }
+
+.blue {
+    background-color: #1193FF !important;
+}
+
+.light-blue-text .material-icons {
+    color: #1193FF !important;
+}
+
+.blue-text {
+    color: #1193FF !important;
+}
+
+a {
+    color: #1193FF;
+}
+
+footer.page-footer .footer-copyright {
+    background-color: #161616;
+}
